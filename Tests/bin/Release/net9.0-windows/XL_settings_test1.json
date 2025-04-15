@@ -1,0 +1,14 @@
+﻿{
+   "appSettings": {
+      "Pathogen": {
+         "file": "Pathogen.xlsx",
+         "worksheet": "Pathogen",
+         "range": "A1:L"
+      }
+   },
+   "EPPlus": {
+      "ExcelPackage": {
+         "LicenseContext": "Commercial"
+      }
+   }
+}

@@ -1,0 +1,19 @@
+﻿{
+   "appSettings": {
+      "Class Schedule 1": {
+         "file": "Class Schedule.xlsx",
+         "worksheet": "Schedule 250217",
+         "range": "A2:P"
+      },
+      "GMeet Attendance Report": {
+         "file": ".\\Attendance\\GMeet Attendance Report.xlsx",
+         "worksheet": "*",
+         "range": "A1:G"
+      }
+   },
+   "EPPlus": {
+      "ExcelPackage": {
+         "LicenseContext": "Commercial"
+      }
+   }
+}

@@ -1,0 +1,12 @@
+D:\Dev\XL\XL_Lib\bin\Debug\net9.0\XL_Lib.deps.json
+D:\Dev\XL\XL_Lib\bin\Debug\net9.0\XL_Lib.dll
+D:\Dev\XL\XL_Lib\bin\Debug\net9.0\XL_Lib.pdb
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\XL_Lib.csproj.AssemblyReference.cache
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\XL_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\XL_Lib.AssemblyInfoInputs.cache
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\XL_Lib.AssemblyInfo.cs
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\XL_Lib.csproj.CoreCompileInputs.cache
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\XL_Lib.dll
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\refint\XL_Lib.dll
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\XL_Lib.pdb
+D:\Dev\XL\XL_Lib\obj\Debug\net9.0\ref\XL_Lib.dll

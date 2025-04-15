@@ -1,0 +1,83 @@
+XL 000: starting
+
+SaveWorksheet 000: starting:
+filePath:       D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Class Schedule.xlsx
+worksheetTabNm: Schedule 250217range:          A2:P
+SaveWorksheet 010: Loading workbook D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Class Schedule.xlsx
+SaveWorksheet 020: getting sheet
+
+SaveWorksheet 000: starting:
+filePath:       D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Class Schedule.xlsx
+worksheetTabNm: Schedule 250217range:          A2:P
+SaveWorksheet 035:modifying range
+SaveWorksheet 035:modifying range A2:P to  A2:P24
+SaveWorksheet 040: sheet:[Schedule 250217] range:[A2:P24]
+SaveWorksheet 050: deleting file if it exists: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Class Schedule.Schedule 250217.txt
+SaveWorksheet 070: Save the worksheet as a tab separated txt file
+SaveWorksheet 070: range specified
+SaveWorksheet 080: Copy data from the source range to the destination range
+SaveWorksheet 090: SaveToFile(D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Class Schedule.Schedule 250217.txt
+: 
+120: Saved D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Class Schedule.xlsx as tsv:
+130: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Class Schedule.Schedule 250217.txt 2073 bytes 4/1/2025 1:00:47 AM  time now: 4/1/2025 1:00:47 AM
+
+SaveWorksheet 000: starting:
+filePath:       D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.xlsx
+worksheetTabNm: GEC E2 2B 250324-0830range:          A1:G
+SaveWorksheet 035:modifying range
+SaveWorksheet 035:modifying range A1:G to  A1:G42
+SaveWorksheet 040: sheet:[GEC E2 2B 250324-0830] range:[A1:G42]
+SaveWorksheet 050: deleting file if it exists: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2B 250324-0830.txt
+SaveWorksheet 070: Save the worksheet as a tab separated txt file
+SaveWorksheet 070: range specified
+SaveWorksheet 080: Copy data from the source range to the destination range
+SaveWorksheet 090: SaveToFile(D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2B 250324-0830.txt
+: 
+120: Saved D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.xlsx as tsv:
+130: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.GEC E2 2B 250324-0830.txt 3063 bytes 4/1/2025 1:00:47 AM  time now: 4/1/2025 1:00:47 AM
+
+SaveWorksheet 000: starting:
+filePath:       D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.xlsx
+worksheetTabNm: GEC E2 2D 250324-0830range:          A1:G
+SaveWorksheet 035:modifying range
+SaveWorksheet 035:modifying range A1:G to  A1:G42
+SaveWorksheet 040: sheet:[GEC E2 2D 250324-0830] range:[A1:G42]
+SaveWorksheet 050: deleting file if it exists: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2D 250324-0830.txt
+SaveWorksheet 070: Save the worksheet as a tab separated txt file
+SaveWorksheet 070: range specified
+SaveWorksheet 080: Copy data from the source range to the destination range
+SaveWorksheet 090: SaveToFile(D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2D 250324-0830.txt
+: 
+120: Saved D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.xlsx as tsv:
+130: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.GEC E2 2D 250324-0830.txt 3208 bytes 4/1/2025 1:00:47 AM  time now: 4/1/2025 1:00:47 AM
+
+SaveWorksheet 000: starting:
+filePath:       D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.xlsx
+worksheetTabNm: GEC E2 2B 250331-0830range:          A1:G
+SaveWorksheet 035:modifying range
+SaveWorksheet 035:modifying range A1:G to  A1:G35
+SaveWorksheet 040: sheet:[GEC E2 2B 250331-0830] range:[A1:G35]
+SaveWorksheet 050: deleting file if it exists: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2B 250331-0830.txt
+SaveWorksheet 070: Save the worksheet as a tab separated txt file
+SaveWorksheet 070: range specified
+SaveWorksheet 080: Copy data from the source range to the destination range
+SaveWorksheet 090: SaveToFile(D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2B 250331-0830.txt
+: 
+120: Saved D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.xlsx as tsv:
+130: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.GEC E2 2B 250331-0830.txt 2507 bytes 4/1/2025 1:00:47 AM  time now: 4/1/2025 1:00:47 AM
+
+SaveWorksheet 000: starting:
+filePath:       D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.xlsx
+worksheetTabNm: GEC E2 2D 250331-1000range:          A1:G
+SaveWorksheet 035:modifying range
+SaveWorksheet 035:modifying range A1:G to  A1:G42
+SaveWorksheet 040: sheet:[GEC E2 2D 250331-1000] range:[A1:G42]
+SaveWorksheet 050: deleting file if it exists: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2D 250331-1000.txt
+SaveWorksheet 070: Save the worksheet as a tab separated txt file
+SaveWorksheet 070: range specified
+SaveWorksheet 080: Copy data from the source range to the destination range
+SaveWorksheet 090: SaveToFile(D:\Dev\XL\Tests\bin\Debug\net9.0-windows\.\Attendance\GMeet Attendance Report.GEC E2 2D 250331-1000.txt
+: 
+120: Saved D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.xlsx as tsv:
+130: D:\Dev\XL\Tests\bin\Debug\net9.0-windows\Attendance\GMeet Attendance Report.GEC E2 2D 250331-1000.txt 3208 bytes 4/1/2025 1:00:47 AM  time now: 4/1/2025 1:00:47 AM
+XL 999: leaving, ret: 0

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XL": {
+      "commandName": "Project",
+      "commandLineArgs": "XL_settings_test1.json"
+    }
+  }
+}

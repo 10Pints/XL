@@ -1,0 +1,23 @@
+﻿id	dow	Course No	Course description	Lec	Lab	Total	Program	Section	Day	Start	End	Room	#students	Eus	Order
+1	4	ITMSD 3	Cross Platform Application Mobile Development	2.00	2.25	4.25	BSIT	IT 3C	Th	8:00 AM	10:00 AM	ICT Room 3	46	195.5	1
+2	3	ITMSD 3	Cross Platform Application Mobile Development	2.00	2.25	4.25	BSIT	IT 3C	W	6:00 PM	7:00 PM	NET LAB	46	195.5	2
+3	5	ITMSD 3	Cross Platform Application Mobile Development	2.00	2.25	4.25	BSIT	IT 3C	F	1:00 PM	3:00 PM	COMLAB 4	46	195.5	3
+4	2	ITMSD 4	Mobile Cloud Computing App Dev	2.00	2.25	4.25	BSIT	IT 3C	T	8:00 AM	10:00 AM	ICT Room 3	46	195.5	4
+5	3	ITMSD 4	Mobile Cloud Computing App Dev	2.00	2.25	4.25	BSIT	IT 3C	W	9:00 AM	10:00 PM	COMLAB 3	46	195.5	5
+6	2	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3B	T	5:30 PM	7:00 PM	COMLAB 4	45	191.25	6
+7	2	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3B	T	7:00 PM	8:00 PM	COMLAB 4	45	191.25	7
+8	4	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3B	Th	5:30 PM	7:00 PM	COMLAB 4	45	191.25	8
+9	4	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3B	Th	7:00 PM	8:00 PM	COMLAB 4	45	191.25	9
+10	2	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3C	T	6:00 PM	7:00 PM	ICT Room 2	45	191.25	10
+11	5	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3C	F	6:00 PM	7:00 PM	ICT Room 2	45	191.25	11
+12	2	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3C	T	10:30 AM	10:00 PM	COMLAB 2	45	191.25	12
+13	4	ITC 130	App Dev in Emerging Tech	2.00	2.25	4.25	BSIT	ITC 3C	Th	10:30 AM	10:00 PM	COMLAB 2	45	191.25	13
+14	1	GEC E2	Living in the IT Era (Informatics)	3.00	0.00	3.00	BSIT	2B	M	8:30 AM	10:00 AM	AB 202	40	120	14
+15	5	GEC E2	Living in the IT Era (Informatics)	3.00	0.00	3.00	BSIT	2B	F	8:30 AM	10:00 AM	AB 202	40	120	15
+16	1	GEC E2	Living in the IT Era (Informatics)	3.00	0.00	3.00	BSIT	2A,2D	M	10:00 AM	11:30 AM	AB 202	45	135	16
+17	5	GEC E2	Living in the IT Era (Informatics)	3.00	0.00	3.00	BSIT	2A,2D	F	10:00 AM	11:30 AM	AB 202	45	135	17
+															
+															
+															
+															
+															

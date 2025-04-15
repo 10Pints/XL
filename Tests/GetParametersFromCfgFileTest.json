@@ -1,0 +1,30 @@
+{
+   "appSettings": {
+      "AllSheets": {
+         "file": "GMeet Attendance Report.xlsx",
+         "worksheet": "*",
+         "range": "A1:G"
+      },
+      "Pathogens ImportCorrections": {
+         "file": "ImportCorrections_221018-Pathogens_A-C.xlsx",
+         "worksheet": "Pathogens",
+         "range": "A1:R5000"
+      },
+      "Company ImportCorrections": {
+         "file": "ImportCorrections_221018-Company.xlsx",
+         "worksheet": "",
+         "range": ""
+      },
+      "Crops ImportCorrections": {
+         "file": "ImportCorrections_221018-Crops.xlsx",
+         "worksheet": "",
+         "range": ""
+      }
+   },
+   "EPPlus": {
+      "ExcelPackage": {
+         "LicenseContext": "Commercial" //The license context used
+      }
+   }
+
+}

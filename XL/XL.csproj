@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pathogen.xlsx" />
+    <None Remove="pathogens_wiki_urls3.xlsx" />
+    <None Remove="XL_settings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Pathogen.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="pathogens_wiki_urls3.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="XL_settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="XL_settings_test1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="7.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XL_Lib\XL_Lib.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="if $(ConfigurationName) == Release for %25%25f in (exe,dll,pdb,config) do (&#xD;&#xA;ECHO XCopy $(TargetDir)\*.%25%25f  C:\bin /F /Y&#xD;&#xA;XCopy $(TargetDir)\*.%25%25f  C:\bin /F /Y&#xD;&#xA;XCopy $(TargetDir)\XL.deps.json C:\bin /F /Y&#xD;&#xA;XCopy $(TargetDir)\XL.runtimeconfig.json C:\bin /F /Y&#xD;&#xA;)" />
+  </Target>
+
+</Project>

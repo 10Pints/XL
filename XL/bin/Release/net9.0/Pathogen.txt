@@ -1,0 +1,1161 @@
+﻿pathogen_nm	pathogenType_nm	subtype	latin name	alt_latin_names	alt_common_names	ph_common_names	crops	taxonomy	notes	urls	biological_cure
+1158											
+Ants	Insect						Banana,Corn,Okra,Pineapple	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hymenoptera,Infraorder:Aculeata,Superfamily:Formicoidea,Latreille, 1809[2],Family:Formicidae			
+28 spotted beetle	Insect		Henosepilachna vigintioctopunctata		Hadda beetle		Tomato,Eggplant, cucurbits, brassicas, legumes, papaya 	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Coccinellidae,Genus:Henosepilachna,Species:H .vigintioctopunctata		http://www.plantdoctor.eastwestseed.com/insect-pests/28-spotted-beetle	
+African armyworm	Insect	Moth	Spodoptera exempta				Corn,Sorghum,Rice,Millet,Grasses,Wheat Oats 				
+Alfalfa mosaic virus	Virus		Alfalfa mosaic virus				Carrot	(unranked):Virus,Realm:Riboviria,Kingdom:Orthornavirae,Phylum:Kitrinoviricota,Class:Alsuviricetes,Order:Martellivirales,Family:Bromoviridae,Genus:Alfamovirus			
+Alternaria	Fungus		Alternaria				Broccoli,Cabbage,Carrot,Cauliflower,Cotton,Cruciferae,Cutflower,Melon,Tobacco,Tomato,Watermelon	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Alternaria fruit rot	Fungus		Alternaria alternata				Almonds,Beans,Cabbage,Carrots,Chinese cabbage,Corn,Cucumber,Eggplant,Pepper,Pistachios,Tomato	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Coccinellidae,Genus:Henosepilachna,Species:H .vigintioctopunctata			
+Alternaria leaf blight	Fungus		Alternaria dauci				Carrot				
+Alternaria leaf spot	Fungus		Alternaria radicina		Alternaria leaf blight,Carrot leaf spot,Carrot leaf blight,Black Leaf spot,Black leaf spot of cabbage		Carrots,Brassicas,Cabbage,Cauliflower,Kale,Brussel sprouts,Broccoli.	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria,species:{radicina, dauci,alternata,brassicicola}	Many species, 2 common names: Alternaria leaf blight,Carrot leaf spot,Carrot leaf blight		
+Anatrachyntis	Insect	Moth	Anatrachyntis simplex				Palms,Pineapple,Okra	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Cosmopterigidae,SubFamily:Cosmopteriginae,Genus:Anatrachyntis			
+Annual broadleaf weeds	Broadleaf Weed		Angiosperms				Banana,Cacao,Citrus,Coconut,Coffee,Corn,Mango,Non-crop areas,Oil palm,Onion,Pineapple,Potato,Rice,Rubber,Sorghum,Soyabeans,Sugarcane,Tomato,Vegetables	Kingdom:Plantae,Clade:Tracheophytes,Clade:Spermatophytes,Clade:Angiosperms			
+Annual grasses	Grass Weed		Poaceae				Banana,Cacao,Citrus,Coconut,Coffee,Corn,Cotton,Grass,Lawns,Mango,Non-crop areas,Oil palm,Okra,Onion,Pineapple,Potato,Rice,Rubber,Sorghum,Soyabeans,Sugarcane,Tomato,Vegetables	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Clade:Graminid clade,Family:Poaceae			
+Annual sedges	Grass Weed		Cyperaceae				Onion,Rice	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Cyperaceae			
+Annual weeds	Weed		Angiosperms				Banana,Beans,Cacao,Carrot,Celery,Citrus,Coconut,Coffee,Corn,Garlic,Mango,Non-crop areas,Oil palm,Onion,Peanut,peas,Pineapple,Potato,Rubber,Soyabeans,Sugarcane,Tobacco,Vegetables				
+Anthracnose fruit rot	Fungus		Colletotrichum gigasporum				Beans,Bell pepper,Chili,Cucumber,Cucurbits,Eggplant,Mango,Melon,Mungbeans,Mungo,Ornamentals,Peas,Pepper,Squash,Tomato,Watermelon		C. arxii, C. magnisporum, C. pseudomajus, C. radicis and C. vietnamense.		
+Anthracnose fruit rot of banana	Fungus		Colletotrichum musae 				Banana				
+Anthracnose leaf blight	Fungus		Glomerella graminicola				Corn	Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Glomerellales,Family:Glomerellaceae,			
+Anthracnose leaf spot	Fungus		Colletotrichum gloeosporioides		Anthracnose: Mango		Bittergourd,Mango	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Glomerellales,Family:Glomerellaceae,Genus:Colletotrichum	Affects many crops		
+Anthracnose: Pepper	Fungus		Colletotrichum capsici	Colletotrichum gloeosporioides,Colletotrichum acutatum			Pepper,Yams,Eggplant	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Glomerellales,Family:Glomerellaceae,Genus:Colletotrichum			
+Aphids	Insect			Eukaryota			Abaca,Banana,Beans,Bittergourd,Cabbage,Cacao,Chinese cabbage,Citrus,Cocoa,Corn,Cotton,Cowpea,Cowpea,Beans,Cruciferae,Cucurbits,Eggplant,Fruit trees,Legumes,Legumes,Mongo beans,Soyabeans,Beans,Mango,Melon,Mungbeans,Okra,Ornamentals,Pechay,Pepper,Potato,Rice,Sitao,Soyabeans,Soyabeans,Beans,Stringbeans,Sweet potato,Tobacco,Tomato,Watermelon,White potato	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Sternorrhyncha,Infraorder:Aphidomorpha,Superfamily:Aphidoidea			
+Arthropods	Insect						-	"Domain:Eukaryota,Kingdom:	Animalia,Division:Eumetazoa,Clade_2:ParaHoxozoa,Phylum:Arthropoda"	Have  no internal spine, but hard exoskeletons and jointed appendages. Many familiar species belong to the phylum Arthropoda: insects, spiders, scorpions, centipedes, and millipedes on land; crabs, crayfish, shrimp, lobsters, and barnacles		
+Asian corn borer	Insect	Moth	Ostrinia furnacalis	Arthropoda			Corn	"Domain:Eukaryota,Kingdom:	Animalia,Class:Insecta,Order:Lepidoptera,Family:Crambidae,Genus:Ostrinia"			
+Asparagus blight 	Fungus		Cercospora asparagi				Asparagus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Cercospora			
+Aster yellows	Phytoplasma		Aster yellows phytoplasma				Carrot				
+Avacado Anthracnose	Fungus		Glomerella cingulata		Black Spot		Avacado	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Glomerellales,Family:Glomerellaceae,Genus:Colletotrichum			
+Bacteria	Bacteria		Bacteria	Lepidoptera			Banana,Beans,Pepper,Pineapple,Rice,Tomato	Domain:Bacteria			
+Bacterial blight	Bacteria		Xanthomonas campestris pv. Vesicatoria	Cosmopterigidae			Beans,Pepper,Rice	Kingdom:Monera,Phylum:Proteobacteria,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas,Species:X. axonopodis	Almost all bacterial spots and blights of leaves, stems, and fruits are caused by bacteria in the genera Pseudomonas and Xanthomonas.		
+Bacterial blight of cassava 	Bacteria		Xanthomonas axonopodis pv. manihotis				Cassava				
+Bacterial blight of common beans 	Bacteria		Xanthomonas axonopodis pv. phaseoli				Beans				
+Bacterial blight of rice	Bacteria		Xanthomonas oryzae pv. Oryzae				Rice				
+Bacterial bulb rot	Bacteria		Multiple bacterial pathogens				Onion,Garlic 				
+Bacterial crown rot	Bacteria		Erwinia papayae		Bacterial canker		Papaya	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Enterobacterales,Family:Erwiniaceae,Genus:Erwinia			
+Bacterial fruit rot	Fungus		Ralstonia solanacearum	Cosmopteriginae	Moko		Banana	Kingdom:MoneraPhylum:ProteobacteriaClass:BetaproteobacteriaOrder:BurkholderialesFamily:BurkholderiaceaeGenus:Ralstonia			
+Bacterial heart rot	Bacteria		Dickeya dadantii	Erwina chrysanthem			Pineapple	Domain:Bacteria ,Kingdom:Pseudomonadota,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Enterobacterales,Family:Pectobacteriaceae,Genus:Dickeya			
+Bacterial leaf blight	Bacteria		Xanthomonas oryzae		Bacterial leaf streak		Rice	Domain:Bacteria ,Kingdom:Pseudomonadota,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas			
+Bacterial leaf blight of Carrot	Bacteria		Xanthomonas campestris				Carrot	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas			
+Bacterial leaf streak	Bacteria		Xanthomonas vasicola				Corn	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas,Species:X. vasicola			
+Bacterial panicle blight	Bacteria		Burkholderia glumae				Rice				
+Bacterial rot	Bacteria		Dickeya sp.				Pineapple 	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Enterobacterales,Family:Pectobacteriaceae,Genus:Dickeya			
+Bacterial soft rot	Bacteria		Erwinia chrysanthemi	Pectobacterium carotovorum			Carrot	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Enterobacterales,Family:Pectobacteriaceae,Genus:Pectobacterium			
+Bacterial specks	Bacteria		Pseudomonas syringae				Tomato	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Pseudomonadales,Family:Pseudomonadaceae,Genus:Pseudomonas			
+Bacterial spot	Fungus		Xanthomonas				Pepper,Tomato	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas	The disease is caused by four species of Xanthomonas (X. euvesicatoria, X. gardneri, X. perforans, and X. vesicatoria)		
+Bacterial wilt	Bacteria		Erwinia tracheiphila				Banana,Tomato	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Enterobacterales,Family:Erwiniaceae,Genus:Erwinia,Species:E. tracheiphila			
+Banana anthracnose	Fungus		Colletotrichum musae				Banana	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Glomerellales,Family:Glomerellaceae,Genus:Colletotrichum			
+Banana flower thrips	Insect		Thrips hawaiiensis		Banana blossom thrips		Banana	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Thysanoptera,Family:Thripidae,Genus:Thrips			
+Banana freckle disease	Fungus		Guignardia musae	Phyllosticta musarum			Banana	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Botryosphaeriales,Family:Botryosphaeriaceae,Genus:Guignardia,Species:G. musae  			
+Banana rust thrips	Insect		Chaetanaphothrips signipennis		Red rust thrips		Banana	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Ubosphylum:Hexapoda,Class:Insecta,Order:Thysanoptera,Family:Thripidae,Genus:Chaetanaphothrips			
+Banded leaf and sheath blight	Fungus		Rhizoctonia solani				Corn	Domain:Eukaryota,Kingdom:Fungi,Division:Basidiomycota,Class:Agaricomycetes,Order:Cantharellales,Family:Ceratobasidiaceae,Genus:Rhizoctonia,Species:R. solani			
+Bark borer	Insect	Moth	Prasinoxena				Coffee,Lanzones	Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Superfamily:Pyraloidea,Family:Pyralidae,Subfamily:Galleriinae,Tribe:Tirathabini,Genus:Prasinoxena			
+Barnyard grass	Grass Weed		Echinochloa colonum		Awnless barnyard grass,Cockspur grass,Common barnyard grass,Deccan grass,Japanese millet,Jharua,Jungle rice,Water grass,Wild rice		Onion,Rice	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Poaceae,Subfamily:Panicoideae,Genus:Echinochloa,Species:E. crus-galli	"barnyard grass"" (which may refer to any species of Echinochloa or the genus as a whole however).Panicum (panicgrass)"		
+Basal rot	Fungus		Phytophthora palmivora				Onion,Papaya	Domain:Eukaryota,Clade:Diaphoretickes,Clade:SAR,Clade:Stramenopiles,Phylum:Oomycota,Order:Peronosporales,Family:Peronosporaceae,Genus:Phytophthora			
+Baterial crown rot	Fungus		Erwinia papayae		Papaya dieback		Papaya	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Enterobacterales,Family:Erwiniaceae,Genus:Erwinia			
+Bean Anthracnose	Fungus		Colletotrichum lindemuthianum.				Beans	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Subphylum:Pezizomycotina,Class:Sordariomycetes,Subclass:Sordariomycetidae,Order:Incertae sedis,Genus:Glomerellaceae			
+Bean fly	Insect		Ophiomyia phaseoli				Beans,Cowpea,Legumes,Mango,Mongo beans,Mungbeans,Sitao,Soyabeans,Stringbeans	Kingdom:Animalia,Phylum:Arthropoda,Subphylum:Hexapoda,Class:Insecta,Infraclass:Neoptera,Subclass:Pterygota,Order:Diptera,Suborder:Brachycera,Infraorder:Acalyptratae,Superfamily:Opomyzoidea,Family:Agromyzidae,Subfamily:Agromyzinae,Genus:Ophiomyia			
+Bean leaf beetle	Insect		Cerotoma trifurcata				Beans	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Chrysomelidae,Genus:Cerotoma	primary vector for bean pod mottle virus		
+Bean Leaffolder	Insect		Lamprosema indicata				Soybeans	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Crambidae,Tribe:Hydririni,Genus:Lamprosema			
+Bean lycaenid	Insect	Moth	Euchrysops cnejus				Beans,Soybeans	Kingdom:Animalia,Phylum:Arthropoda,Subphylum:Hexapoda,Class:Insecta,Infraclass:Neoptera,Subclass:Pterygota,Order:Lepidoptera,Superfamily:Papilionoidea,Family:Lycaenidae,Subfamily:Polyommatinae,Tribe:Polyommatini,Genus:Euchrysops			
+Bean pod borer	Insect		Maruca vitrata		Mung Moth		Beans,Cacao,Cocoa,Cowpea,Eggplant,Legumes,Mango,Mongo beans,Mungbeans,Sitao,Soyabeans,Stringbeans	Domain:Eukaryota,Kingdom:Animalia,Phylum:  Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Crambidae,Genus:Maruca			
+Bean rust	Fungus	Moth	Uromyces appendiculatus				Beans	Domain:Eukaryota,Kingdom:Fungi,Division:Basidiomycota,Class:Pucciniomycetes,Order:Pucciniales,Family:Pucciniaceae,Genus:Uromyces			
+Armyworm	Insect	Moth	Spodoptera exigua	Insecta	Beet armyworm,Onion armyworm		Onion,Asparagus	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Superfamily:Noctuoidea,Family:Noctuidae,Genus:Spodoptera,Species:S. exigua			
+Beet curly top virus	Virus		Hybrigeminivirus		BCTV		Carrot				
+Beetles	Insect		Order:Coleoptera				Grapes,Tomato,Watermelon	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Clade:Coleopterida,Order:Coleoptera,SubOrders:[Adephaga,Archostemata,Myxophaga,Polyphaga,Protocoleoptera]			
+Bermuda grass	Grass Weed		Cynodon dactylon				Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rubber,Soyabeans,Tomato	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Poaceae,Genus:Cynodon,Species:C. dactylon			
+Berry borer	Insect		Hypothenemus hampei				Lanzones,Coffee	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Curculionidae,Genus:Hypothenemus			
+Bitter rot 	Fungus		Colletotrichum gloeosporioides		Anthracnose fruit rot,Mango anthracnose		Mango	Kingdom:FungiPhylum:AscomycotaClass:SordariomycetesOrder:Incertae sedisFamily:GlomerellaceaeGenus:Colletotrichum			
+Black borer	Insect		Xylosandrus crassiusculus		Asian ambrosia beetle		Mango	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Curculionidae,Genus:Xylosandrus			
+Black leg	Fungus		Leptosphaeria maculans				Cabbage	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Leptosphaeriaceae,Genus:Leptosphaeria			
+Black pod 	Fungus		Phytophthora palmivora				Cacao	Domain:Eukaryota,Clade:Diaphoretickes,Clade:SAR,Clade:Stramenopiles,Phylum:Oomycota,Order:Peronosporales,Family:Peronosporaceae,Genus:Phytophthora			
+Black root rot of Carrot	Fungus		Thielaviopsis basicola	Chalara elegans			Carrot	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Microascales,Family:Ceratocystidaceae,Genus:Thielaviopsis			
+Black root rot of Pineapple	Fungus		Thielaviopsis paradoxa	Thielaviopsis basicola			Pineapple	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Microascales,Family:Ceratocystidaceae,Genus:Thielaviopsis			
+Black rot	Fungus		Botryosphaeria obtusa				Apple,Citrus,Cruciferae,Grape,Orchids,Pear,Potato,Quince,Ornamentals,Pineapple,Sweet potato	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Botryosphaeriales,Family:Botryosphaeriaceae,Genus:Botryosphaeria	Apple:(Botryosphaeria obtusa or Physalospora cydoniae),Citrus: Alternaria citri,Cruciferae:Xanthomonas campestris,Grape:Guignardia bidwellii,Orchids,Pear,Potato:Erwinia atroseptica,Quince,Ornamentals,Pineapple,sweet potato:Ceratostomella fimbriata		
+Black rot (black carrot root dieback)	Fungus		Alternaria radicina	Stemphylium radicinum			Carrot	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Black sigatoka	Fungus		Pseudocercospora fijiensis		Black leaf streak		Citrus,Ornamentals,Orchids,Rice	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Mycosphaerella			
+Black spot	Fungus		Diplocarpon rosae				Citrus,Ornamentals,Orchids,Rice,grapes	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Drepanopezizaceae,Genus:Diplocarpon			
+Black stripe	Fungus		Phytophthora palmivora				Rubber	Domain:Eukaryota,Clade:Diaphoretickes,Clade:SAR,Clade:Stramenopiles,Phylum:Oomycota,Order:Peronosporales,Family:Peronosporaceae,Genus:Phytophthora			
+Blossom blight	Fungus		Monilinia laxa				apricots, cherries, nectarines, peaches, plums and almonds	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Monilinia			
+Blosson thrips	Insect		Frankliniella schultzei				Banana,Mango,Watermelon	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Thysanoptera,Family:Thripidae,Genus:Frankliniella			
+Blue mold	Fungus		Penicillium expansum				Apples,Pears,Cherries,Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Eurotiomycetes,Order:Eurotiales,Family:Aspergillaceae,Genus:Penicillium			
+Blue Mold of Tobacco	Fungus		Peronospora hyoscyami f.sp. tabacina	Peronospora hyoscyami f.sp. tabacina			Tobacco	Domain:Eukaryota,Clade:Diaphoretickes,Clade:SAR,Clade:Stramenopiles,Phylum:Oomycota,Order:Peronosporales,Family:Peronosporaceae,Genus:Peronospora			
+Blue mold rot (blue green mold)	Fungus		Penicillium expansum				Carrot	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Eurotiomycetes,Order:Eurotiales,Family:Aspergillaceae,Genus:Penicillium			
+Boll weevil	Insect		Anthonomus grandis				Cotton	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Curculionidae,Genus:Anthonomus,Species:A. grandis			
+Bollworm	Insect	Moth	Helicoverpa armigera				Cotton	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Superfamily:Noctuoidea,Family:Noctuidae,Genus:Helicoverpa			
+Botrytis	Fungus		Botrytis spp.				Beans,Garlic,Leeks,Legumes,Onion,Potato,Shallots,Tomato	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Botrytis Blight	Fungus		Botrytis squamosa	Botrytis cinera	Gray mold,Leaf blast,Botrytis leaf blight,Ornamental blight		Onion,Ornamentals,Cutflowers	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Botrytis leaf spot: Beans	Fungus		Botrytis fabae	Botrytis cinerea,Botrytis pseudocinerea,Botrytis fabiopsis	Botrytis leaf blight,Chocolate spot		Beans	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Botrytis leaf spot: Garlic Onion	Fungus		Botrytis squamosa	Botrytis aclada,Botrytis cinerea,Botrytis squamosa,Botrytis porri 	Botrytis leaf blight		Garlic,Onion	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Botrytis leaf spot: Legumes	Fungus		Botrytis pseudocinerea	Botrytis fabiopsis,Botrytis euroamericana,Botrytis medusae	Botrytis leaf blight		Legumes	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Botrytis Neck and Bulb Rot	Fungus		Botrytis aclada	Botrytis allii, Botrytis porri	Botrytis neck rot,Botrytis bulb rot		Garlic,Onion,Pepper	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Botrytis rot	Fungus		Botrytis cinerea		Gray mold		Beans,Legumes,Strawberry	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Broadleaf weeds	Broadleaf Weed						Banana,Banana (Cavendish),Cacao,Citrus,Coconut,Coffee,Corn,Cotton,Grass,Lawns,Mango,Non-crop areas,Oil palm,Okra,Onion,Pineapple,Potato,Rice,Rubber,Sorghum,Soyabeans,Sugarcane,Tobacco,Tomato,Turf grass,Vegetables	Kingdom:Plantae,Clade:Tracheophytes,Clade:Spermatophytes,Clade:Angiosperms			
+Brown bark rot	Fungus		Phellinus noxium				Cacao	Domain:Eukaryota,Kingdom:Fungi,Division:Basidiomycota,Class:Agaricomycetes,Order:Hymenochaetales,Family:Hymenochaetaceae,Genus:Pyrrhoderma,Species:P. noxium			
+Brown eye spot	Fungus				Cercospora leaf spot		Coffee,Tobacco	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Cercospora			
+Brown leafhopper	Insect		Orosius.orientalis				Coffee,Tobacco	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Auchenorrhyncha,Family:Cicadellidae,Genus:Orosius,Species:O. orientalis			
+Brown planthopper	Insect						Rice	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Auchenorrhyncha,Infraorder:Fulgoromorpha,Family:Delphacidae,Subfamily:Delphacinae,Tribe:Delphacini,Genus:Nilaparvata,Species:N. lugens			
+Brown rot (Phoma disease)	Fungus		Leptosphaeria libanotis	Phoma rostrupii			Carrot	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Leptosphaeriaceae,Genus:Leptosphaeria			
+Buckshot rot	Fungus		Typhula spp.				Carrot				
+Bugs	Insect		Insecta		Insect		Banana,Beans,Citrus,Coffee,Eggplant,Fruit trees,Grapes,Legumes,Mango,Ornamentals,Pineapple,Rice,Soyabeans,Sugarcane	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Clade:Pancrustacea,Subphylum:Hexapoda,Class:Insecta			
+Burrowing nematode	Nematode		Radopholus similis				Banana,Pineapple	Domain:Eukaryota,Kingdom:Animalia,Phylum:Nematoda,Class:Secernentea,Order:Tylenchida,Family:Pratylenchidae,Genus:Radopholus			
+Bush Snail	Mollusc		Fruticicola fruticum				Potted plants	Domain:Eukaryota,Kingdom:Animalia,Phylum:Mollusca,Class:Gastropoda,Order:Stylommatophora,Family:Camaenidae,Subfamily:Bradybaeninae,Tribe:Bradybaenini,Genus:Fruticicola			
+Buttonweed	Fungus		Borreria latifolia				Corn	Domain:Eukaryota,Kingdom:Plantae,Phylum:Spermatophyta,Subphylum:Angiospermae,Class:Dicotyledonae,Order:Gentianales,Family:Rubiaceae,Genus:Borreria			
+Cabbage black leaf spot 	Fungus		Alternaria brassicicola		Black leaf spot		Cabbage	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Cabbage black rot	Fungus		Xanthomonas campestris				Cabbage,Cruficerae	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas			
+Cabbage butterfly	Insect		Pieris rapae				Cabbage	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Pieridae,Genus:Pieris			
+Cabbage cluster caterpillar	Insect	Moth	Crocidolomia pavonana				Cabbage,Cauliflower,Chinese cabbage,Cruciferae,Mustard,Pechay	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Crambidae,Genus:Crocidolomia			
+Cabbage moth	Insect	Moth	Trichoplusia ni		Cabbage looper moth,Cabbage worm,Cabbage Looper,Spanworm,Inchworm		Cabbage,Cauliflower,Chinese cabbage,Cruciferae,Mustard,Pechay	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Superfamily:Noctuoidea,Family:Noctuidae,Genus:Trichoplusia			
+Cadelle beetle	Insect		Tenebroides mauritanicus				Rice,Wheat,Oats	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Trogossitidae,Genus:Tenebroides			
+Calopo	Broadleaf Weed		Calopogonium mucunoides	Calopogonium brachycarpum,Calopogonium orthocarpum,Stenolobium brachycarpum	Wild ground nut		Corn,Banana	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Eudicots,Clade:Rosids,Order:Fabales,Family:Fabaceae,Subfamily:Faboideae,Genus:Calopogonium			
+Canker	Fungus		Anthracnose		Anthracnose		Banana,Avocado,Guava,Dragon fruit,Durian,Beans,Bell pepper,Bittergourd,Cantaloupe,Chili pepper,Citrus,Coffee,Cucumber,Cucurbits,Eggplant,Grapes,Legumes,Mango,Melon,Mungbeans,Oil palm,Onion,Ornamentals,Peas,Pepper,Papaya,Rice,Snap Beans,Squash,Stringbeans,Sweet pepper,Tobacco,Tomato,Watermelon				
+Capsid bug	Insect		Miridae spp.				Cacao,Mango	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Heteroptera,Superfamily:Miroidea,Family:Miridae			
+Carabao Grass	Grass Weed		Paspalum conjugatum		Buffalo grass,Carabao grass,Sour paspalum		-				
+Carrot bacterial gall	Bacteria		Rhizobacter dauci				Carrot				
+Carrot bacteriosis	Bacteria		Xanthomonas campestris pv. carotae				Carrot				
+Carrot blight	Fungus						Carrot				
+Carrot canker	Fungus		Thanatephorus cucumeris	Rhizoctonia solani			Carrot				
+Carrot latent virus	Virus		Nucleorhabdovirus		CtLtV		Carrot				
+Carrot leaf blight	Fungus		Cercospora carotae				Carrot				
+Carrot Leaf Blight Alternaria dauci 	Fungus		Alternaria dauci				Carrot	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Carrot Leaf Blight Cercospora carotae	Fungus		Cercospora carotae				Carrot	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Cercospora			
+Carrot Leaf Blight Xanthomonas campestris	Bacteria		Xanthomonas campestris				Carrot	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas			
+Carrot mottle virus	Virus		Umbravirus		CMoV		Carrot				
+Carrot red leaf virus	Virus		Luteovirus		CaRLV		Carrot				
+Carrot thin leaf virus	Virus		Potyvirus		CTLV		Carrot				
+Carrot yellow-leaf virus	Virus		Closterovirus		CYLV		Carrot				
+Caseworm	Insect						Rice				
+Cassava	Broadleaf Weed						Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rubber,Soyabeans,Tomato				
+Caterpillars	Insect						Banana,Banana (Cavendish),Broccoli,Cabbage,Cauliflower,Mustard,Pechay				
+Cavity spot	Fungus		Pythium sulcatum	Pythium violae,Pythium violae,Rhizoctonia spp.,Rhizoctonia solani,Pythium spp.	Rusty root,Pythium root dieback		Carrot			https://www.ontario.ca/page/identification-and-management-carrot-root-diseases#:~:text=Cavity%20spot%20and%20Pythium%20root%20dieback%20(formerly%20known%20as%20rusty,favoured%20by%20moist%20soil%20conditions.	
+Cecid fly	Insect						Mango				
+Celery blight	Fungus		Cercospora apii i				Celery				
+Celery mosaic virus	Virus		Potyvirus		CeMV		Carrot				
+Centro	Broadleaf Weed		Centrosema pubescens				-		Centrosema pubescens can be intercropped with grasses, thus increasing the protein of the cattle diet. [7] The leaves can also be used as a cheap source of protein for broiler chickens. It is a good source of calcium and potassium for animals.		
+Ceratocystis rot	Fungus						Pineapple				
+Cercospora leaf blight	Fungus						Asparagus,Carrot,Tomato				
+Cercospora leaf mold	Fungus						Crowfoot grass,East Indian crabgrass,Carabao Grass,Purple cleome,Chinese violet,E. sonchifolia,H. corymbosa,C. mucunoides,M. invisa,M. pudica				
+Cercospora leaf spot	Fungus				Brown eye spot		Avocado,Beans,Bittergourd,Cabbage,Carrot,Cauliflower,Chili pepper,Chinese cabbage,Corn,Cruciferae,Cucumber,Cucurbits,Eggplant,Ginger,Legumes,Lettuce,Melon,Mungbeans,Okra,Peanut,Pepper,Rice,Squash,Strawberry,Stringbeans,Watermelon	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Cercospora			
+Chinese violet	Broadleaf Weed		Asystasia gangetica				-				
+Cinderella weed	Fungus						Corn				
+Citrus Alternaria Brown Spot	Fungus		Alternaria alternata 				Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Citrus black rot	Fungus		Alternaria citri				Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Citrus black spot	Fungus		Phyllosticta citricarpa				Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Botryosphaeriales,Family:Botryosphaeriaceae,Genus:Phyllosticta			
+Citrus brown rot	Fungus						Citrus				
+Citrus brown spot	Fungus		Alternaria alternata				Citrus				
+Citrus Canker	Bacteria		Xanthomonas axonopodis		Citrus bacterial spot		Citrus	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas			
+Citrus Melanose	Fungus		Diaporthe citri				Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Diaporthales,Family:Diaporthaceae,Genus:Diaporthe			
+Citrus rind borer	Insect	Moth	Prays endocarpa		Citrus pock caterpillar		Citrus,Pomelo	Domain:Eukaryota,Kingdom:Metazoa,Phylum:Arthropoda,Subphylum:Uniramia,Class:Insecta,Order:Lepidoptera,Family:Yponomeutidae,Genus:Prays,			
+Citrus scab	Fungus		Elsinoe fawcettii				Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Myriangiales,Family:Elsinoaceae,Genus:Elsinoë			
+Clubroot	Fungus						Cabbage				
+Coconut nut rot 	Fungus						Coconut				
+Coffee berry borer	Insect		Hypothenemus hampei				Coffee	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Curculionidae,Genus:Hypothenemus			
+Coffee berry disease	Fungus		Colletotrichum kahawae				Coffee				
+Coffee rust	Fungus						Coffee				
+Cogon grass	Fungus		Imperata cylindrica				Banana,Cacao,Citrus,Coconut,Coffee,Corn,Mango,Non-crop areas,Oil palm,Rubber,Sugarcane,Vegetables				
+Colletotrichum nymphaeae	Fungus		Colletotrichum nymphaeae				Citrus ,Pepper,Cherry,Peach,Guava,Malus spp,Juglans regia,Khaya spp.				
+Common scab	Bacteria		Streptomyces scabiei	Streptomyces scabies	Potato scab		Potato,Beet,Radish,Rutabaga,Turnip,Carrot,Parsnip				
+Confused flour beetle	Insect						Rice				
+Corm rot	Fungus						Banana				
+Corm weevil	Insect						Banana				
+Corn bacterial leaf blight 	Bacteria		Pseudomonas avenae				Corn	Kingdom:Bacteria,Subkingdom:Negibacteria,Phylum:Proteobacteria,Class:Betaproteobacteria,Order:Burkholderiales,Family:Comamonadaceae,Genus:Acidovorax			
+Corn blight	Fungus		Bipolaris maydis				Corm				
+Corn borer	Insect						Corn,Sorghum				
+Corn brown spot	Fungus		Physoderma maydis				Corn	Domain:Eukaryota,Kingdom:Fungi,Division:Blastocladiomycota,Class:Physodermatomycetes,Order:Physodermatales,Family:Physodermataceae,Genus:Physoderma			
+Corn earworm	Insect				Tomato earworm		Corn,Mungbeans,Soyabeans				
+Corn eyespot	Fungus						Corn				
+Corn rust	Fungus						Corn				
+Corn seedling	Fungus						Corn				
+Corn weevil	Insect						Corn				
+Cotton bollworm	Insect						Cotton				
+Cotton leafworm	Insect	Moth	Spodoptera litura		tobacco cutworm		Cotton				
+Cotton stainer bug	Insect						Cotton				
+Cottony rot	Fungus		Sclerotinia sclerotiorum	Sclerotinia minor			Carrot				
+Crabgrass	Grass Weed		Digitaria sanguinalis		Hairy crabgrass,Hairy finger-grass,Large crabgrass,Crab finger grass,Purple crabgrass		Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rubber,Soyabeans,Tomato				
+Crater rot	Fungus		Athelia arachnoidea	Fibulorhizoctonia carotae			Carrot				
+Crickets	Insect						Corn				
+Crowfoot grass	Grass Weed						Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rubber,Soyabeans,Tomato				
+Crown and spear rot	Fungus						Asparagus				
+Crown gall	Bacteria		Agrobacterium tumefaciens				Carrot				
+Crown rot disorder	Physiological		No associated pathogen				Carrot				
+Crown rot: Asparagus	Fungus		Fusarium.asparagi	Fusarium oxysporum,Fusarium.asparagi,Fusarium proliferatum,Fusarium moniliforme			Asparagus				
+Crown rot: Carrot	Fungus		Rhizoctonia solani	Rhizoctonia spp			Carrot		same as damping off		
+Cucumber blight	Fungus		Alternaria cucumerina				Cucumber				
+Cucumber Gummy stem blight	Fungus		Didymella bryoniae				Cucumber	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Didymellaceae,Genus:Didymella			
+Cucumber mosaic virus	Virus		genus Cucumovirus		CMV		Carrot				
+Cucurbit Alternaria Leaf Blight	Fungus		Alternaria cucumerina				Cucurbit:watermelon,cantaloupe,cucumber,zucchini,pumpkin,squash	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Cucurbit beetle	Insect	beetle	Aulacophora indica		pumkin beetls		Cucurbits	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Suborder:Polyphaga,Infraorder:Cucujiformia,Family:Chrysomelidae,Subfamily:Galerucinae,Tribe:Luperini,Subtribe:Aulacophorina,Genus:Aulacophora		http://www.plantdoctor.eastwestseed.com/insect-pests/cucurbit-beetle-0,https://www.inaturalist.org/taxa/342313-Aulacophora-indica	
+Cucurbits Anthracnose	Fungus		Colletotrichum orbiculare	Colletotrichum lagenarium			Cucurbits	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Subphylum:Pezizomycotina,Class:Sordariomycetes,Subclass:Sordariomycetidae,Order:Incertae sedis,Genus:Glomerellaceae	Use disease-tolerant varieties like Charleston Gray		
+Cutworm	Insect						Ampalaya,Asparagus,Beans,Bittergourd,Cabbage,Cauliflower,Citrus,Corn,Cotton,Cowpea,Cruciferae,Eggplant,Garlic,Grapes,Legumes,Melon,Mongo beans,Mungbeans,Mustard,Okra,Onion,Ornamentals,Pechay,Pepper,Potato,Rice,Sorghum,Soyabeans,Stringbeans,Tobacco,Tomato,Watermelon,White potato				
+Cyperaceous weeds	Grass Weed						Corn,Rice,Sugarcane				
+Cyperus	Fungus						Rice				
+Cyst nematode	Nematode		Heterodera carotae				Carrot				
+Dagger nematode	Nematode		Xiphinema				Carrot				
+Damping off	Fungus		Pythium spp.	Fusarium spp.,Rhizoctonia solani			Carrot				
+Damping-off	Fungus		Pythium	Phytophthora, Rhizoctonia			Bittergourd,Celery,Corn,Okra,Onion,Papaya,Stringbeans,Sweet pepper,Tomato,Watermelon		most common in cool, wet conditions, and can be especially damaging in spring		
+Diamond fruit spot	Fungus						Banana,Banana (Cavendish)				
+Diamondback moth	Insect	moth	Plutella xylostella		Cabbage moth		Broccoli,Cabbage,Cauliflower,Chinese cabbage,Cruciferae,Melon,Mustard,Pechay			http://www.plantdoctor.eastwestseed.com/insect-pests/diamondback-moth 	
+Dieback of carrots	Fungus		Pythium debaryanum	Pythium spp.			Carrot	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Plutellidae,Genus:Plutella			
+Diplodia ear rot	Fungus		Stenocarpella maydis	Stenocarpella macrospora			Corn				
+Diplodia leaf spot	Fungus						Oil palm				
+Diplodia stem end rot	Fungus		Lasiodiplodia theobromae		Stem end rot		Mango				
+Dirty panicle	Fungus						Rice				
+Downy mildew	Fungus		Peronosporaceae				Beans,Bittergourd,BrassicasBroccoli,Cabbage,Cantaloupe,Carrot,Cauliflower,Citrus,Corn,Cotton,Cucumber,Cucurbits,Eggplant,Garlic,Grapes,Leeks,Lettuce,Melon,Mungbeans,Okra,Onion,Ornamentals,Peas,Pepper,Potato,Shallots,Squash,Stringbeans,Tomato,Watermelon		Caused by several oomycetes of the  Peronosporaceae family		
+Ear rot	Fungus						Asparagus,Corn,Mango				
+Early blight	Fungus		Alternaria solani 				Celery,Cucumber,Cucurbits,Eggplant,Lettuce,Melon,Pepper,Potato,Squash,Tomato,Watermelon	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae	Alternaria		
+Earthworm	Insect						Corn				
+Earworm	Insect						Corn,Mungbeans,Sorghum,Soyabeans,Sugarcane				
+East Indian crabgrass	Grass Weed		Digitaria setigera				-				
+Echinochloa spp.	Grass Weed						Rice				
+Eggplant blight	Fungus		Phytophthora capsici	Phytophthora nicotianae	Squash blight		Eggplant			https://ipm.ucanr.edu/agriculture/onion-and-garlic/botrytis-leafspot/#gsc.tab=0	
+Eggplant fruit & shoot borer	Insect	Moth	Leucinodes orbonalis				Eggplant	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Crambidae,Genus:Leucinodes			
+Egyptian cotton leafworm	Insect						Cotton				
+Eutypa dieback	Fungus						Grapes				
+Fall Armyworm	Insect	Moth	Spodoptera frugiperda				Onions,Corn,Rice,Sorghum,Sugarcane,Cotton,Vegetables	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Superfamily:Noctuoidea,Family:Noctuidae,Genus:Spodoptera			
+Fern grass	Grass Weed						Banana,Cacao,Citrus,Coconut,Coffee,Corn,Mango,Non-crop areas,Oil palm,Rubber,Sugarcane,Vegetables				
+Field bindweed	Broadleaf Weed						Corn				
+Field crickets	Insect						Corn				
+Field rats	Rodent						Corn,Rice,Sugarcane				
+Fimbry Sedge	Grass Weed						Rice				
+Finger rot	Fungus						Banana,Banana (Cavendish)				
+Fireweed	Broadleaf Weed		Crassocephalum crepidioides		Ebolo,Thickhead,Redflower ragleaf		-		Asteraceae 		
+Flea beetle	Insect						Beans,Cabbage,Cucurbits,Eggplant,Legumes,Mango,Mungbeans,Sitao,Soyabeans,Stringbeans,Tobacco				
+Flies	Insect						-	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Superorder:Panorpida,(unranked):Antliophora,Order:Diptera			
+Flower weevil	Insect						Cotton				
+Forking, brown root	Fungus		Pythium paroecandrum	Pythium sylvaticum,Pythium irregulare,Pythium spp.			Carrot				
+Frogeye leaf spot	Fungus						Tobacco				
+Fruit and shoot borer	Insect						Eggplant				
+Fruit borer	Insect						Eggplant,Onion				
+Fruit fly	Insect		Drosophilidae				Bittergourd,Mango				
+Fruit rot	Fungus						Banana,Banana (Cavendish),Beans,Bell pepper,Bittergourd,Cantaloupe,Chili pepper,Citrus,Coffee,Cucumber,Cucurbits,Eggplant,Grapes,Legumes,Mango,Melon,Mungbeans,Oil palm,Onion,Ornamentals,Papaya,Peas,Pepper,Pineapple,Rice,Snap Beans,Squash,Stringbeans,Sweet pepper,Tobacco,Tomato,Watermelon				
+Fruit spot	Fungus						Banana,Banana (Cavendish),Cucumber,Cucurbits,Melon,Squash,Watermelon				
+Fruitlet core rot	Fungus		Penicillium funiculosum	Penecillium funicolsum,Candida guilliermondi	Green eye		Pineapple	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Eurotiomycetes,Order:Eurotiales,Family:Aspergillaceae,Genus:Penicillium			
+Fruitworm	Insect						Eggplant,Onion,Pepper,Tomato,Watermelon				
+Fungal pests	Fungus						-				
+Fusariosis	Fungus		Fusarium guttiforme				Pineapple				
+Fusarium	Fungus						Asparagus,Banana,Banana (Cavendish),Beans,Cucumber,Cucurbits,Legumes,Melon,Pineapple,Squash,Tobacco,Tomato,Watermelon				
+Fusarium Basal Rot	Fungus		Fusarium oxysporum	Fusarium proliferatum			Onion,Garlic	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Clade_2:Sordariomycetes,Phylum:Hypocreales,Subphylum:Nectriaceae,Class:Fusarium,	Same agent as Panama disease in Banana, their predominant role in native soils may be as harmless or even beneficial plant endophytes or soil saprophytes, many strains within the F. oxysporum complex are soil borne pathogens of plants		
+Fusarium dry rot	Fungus		Fusarium sp.				Carrot				
+Fusarium fruit rot	Fungus						Cucumber,Cucurbits,Melon,Squash,Watermelon				
+Fusarium pallidoroseum	Fungus						Banana (Cavendish)				
+Fusarium solani	Fungus						Banana (Cavendish)				
+Fusarium spp.	Fungus						Pineapple				
+Fusarium wilt	Fungus		Fusarium oxysporum				Asparagus,Banana,Banana (Cavendish),Beans,Legumes,Tomato,Watermelon	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Hypocreales,Family:Nectriaceae,Genus:Fusarium,Species:F. oxysporum			
+Garlic,Onion blight	Fungus		Botrytis squamosa 				Garlic,Onion				
+Giant african snail	Mollusc						Potted plants				
+Giant hygro	Broadleaf Weed		Hygrophila corymbosa		Temple plant,Starhorn		-				
+Giant sensitive plant	Broadleaf Weed		Mimosa diplotricha Sauvalle		Creeping sensitive plant,Giant false sensitive plant,Nila grass,Spiny mimosa		-	Domain:Eukaryota,Kingdom:Plantae,Phylum:Spermatophyta,Subphylum:Angiospermae,Class:Dicotyledonae,Order:Fabales,Family:Fabaceae,SubFamily:Mimosoideae,Genus:Mimosa			
+Golden apple snail	Mollusc						Rice				
+Gold-fringed rice borer	Insect	Moth	Chilo auricilius				Rice		yield loss of about 30%	http://www.knowledgebank.irri.org/images/docs/managing-rice-stem-borer	
+Goosegrass	Grass Weed		Eleusine indica Cyperales				Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rubber,Soyabeans,Tomato				
+Gooseweed	Broadleaf Weed		Sphenoclea zeylanica		Chickenspike,Wedgewort		Rice				
+Grain moth	Insect						Wheat,Barley,Buckwheat,Corn,Oats,Rice,Rye,Sorghum,Triticale				
+Grain weevil	Insect						Apples,Barley,Corn,Cotton,Grapes,Nuts,Pears,Sorghum,Rice,Rye,Triticale,Wheat				
+Grass Weeds	Grass Weed						-				
+Grasses	Grass Weed						Banana,Banana (Cavendish),Cacao,Cassava,Citrus,Coconut,Coffee,Corn,Cotton,Grass,Lawns,Mango,Non-crop areas,Oil palm,Okra,Onion,Pineapple,Potato,Ramie,Rice,Rubber,Sorghum,Soyabeans,Sugarcane,Tobacco,Tomato,Turf grass,Vegetables	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Clade:Graminid clade,Family:Poaceae			
+Grasshoppers	Insect						Corn,Cotton,Cowpea,Soyabeans,Tobacco				
+Gray leaf spot	Fungus						Corn				
+Gray mold rot	Fungus		Botryotinia fuckeliana	Botrytis cinerea			Carrot				
+Greasy spot	Fungus		Mycosphaerella citri				Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Mycosphaerella			
+Green leafhopper	Insect						Eggplant,Rice,Stringbeans,Watermelon				
+Grey leaf spot	Fungus						Corn				
+Grey mold	Fungus		Botrytis cinerea				Beans,Legumes,Strawberry	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Leotiomycetes,Order:Helotiales,Family:Sclerotiniaceae,Genus:Botrytis			
+Grubs	Insect						Corn,Cotton,Cowpea,Legumes,Ornamentals,Soyabeans,Sugarcane,White potato				
+Gummy stem blight	Fungus						Cucumber,Melon				
+Gummy stem blight,Black rot	Fungus		Gummy stem blight		Melon blight		Muskmelon,Watermelon			https://www.vegetables.bayer.com/ca/en-ca/resources/agronomic-spotlights/gummy-stem-blight-of-watermelon.html#:~:text=PATHOGENS%20AND%20DISEASE%20CYCLE,cucurbitacearum%2C%20and%20S.	
+Hairy beggarticks	Broadleaf Weed						Corn				
+Hairy root	Bacteria		Agrobacterium rhizogenes				Carrot				
+Hard rot	Fungus		Gliocladium roseum	Fusarium sp.			Carrot				
+Headworm	Insect						Sorghum				
+Heart rot	Fungus						Pineapple				
+Heat canker	Physiological						Carrot		High soil surface temperature		
+Helicotylenchus nematode	Fungus						-				
+Helminthosporium leaf spot	Fungus						Banana,Carrot,Corn,Corn (sweet and popcorn),Rice				
+Hollow black heart	Physiological				Boron deficiency (plant disorder)		Carrot				
+Hoorahgrass	Fungus		Fimbristylis miliacea		Grasslike fimbry		Rice				
+Hoppers	Insect						Banana,Bittergourd,Corn,Cotton,Cowpea,Eggplant,Grapes,Mango,Mungbeans,Okra,Potato,Rice,Soyabeans,Stringbeans,Sugarcane,Tobacco,Tomato,White potato				
+Hornworm	Insect						Tobacco				
+Indian-meal moth	Insect						-				
+Insect pests	Insect						Banana				
+Itchgrass	Fungus		Rottboellia cochinchinensis	Rottboellia exaltata	Raoul grass,Corngrass,Kokoma grass,Guinea-fowl grass,Jointed grass,Shamwa grass,Kelly grass		Banana,Cacao,Citrus,Coffee,Corn,Cotton,Oil palm,Onion,Pineapple,Ramie,Rubber,Soyabeans,Tomato				
+Jungle rice	Fungus						Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rice,Rubber,Soyabeans,Tomato				
+Katydid	Insect						Cotton,Tobacco				
+Khapra beetle	Insect						-				
+Ladybird beetle	Insect						Cucurbits,Eggplant,Rice,Tomato				
+Lance nematode	Nematode		Hoplolaimus uniformis				Carrot				
+Late blight	Fungus		Phytophthora infestans				Cabbage,Carrot,Celery,Cruciferae,Cucumber,Cucurbits,Eggplant,Lettuce,Melon,Okra,Pepper,Potato,Solanaceae ,Squash,Tobacco,Tomato,Watermelon				
+Lateral root dieback	Fungus		Pythium spp.				Carrot				
+Leaf beetle	Insect						Watermelon				
+Leaf blight	Fungus						Asparagus,Beans,Carrot,Celery,Corn,Cutflower,Garlic,Leeks,Legumes,Melon,Onion,Shallots,Tomato				
+Leaf miner	Insect						Beans,Cowpea,Okra,Soyabeans				
+Leaf mold	Fungus						Okra,Tobacco,Tomato				
+Leaf roller	Insect						Banana				
+Leaf rot	Fungus		Typhula variabilis				Carrot				
+Leaf rust: Coffee	Fungus		Hemileia vastatrix				Coffee				
+Leaf rust: Corn	Fungus		Puccinia sorghi		Common corn rust		Corn				
+Leaf rust: Soybean	Fungus		Phakopsora pachyrhizi		Soybean rust		Soyabeans,Soybean				
+Leaf speckle	Fungus						Banana				
+Leaf spot	Fungus		several				Avocado,Banana,Beans,Bittergourd,Broccoli,Cabbage,Carrot,Cauliflower,Celery,Chili pepper,Chinese cabbage,Corn,Corn (Sweet and Popcorn),Cotton,Cruciferae,Cucumber,Cucurbits,Eggplant,Ginger,Legumes,Lettuce,Melon,Mungbeans,Oil palm,Okra,Peanut,Pepper,Pineapple,Rice,Roses,Squash,Strawberry,Stringbeans,Tobacco,Tomato,Watermelon				
+Leaffolder	Insect						Banana,Beans,Melon,Mungbeans,Mungo,Rice,Sitao,Soybeans,White potato				
+Leafhoppers	Insect		Cicadellidae sp.				Banana,Bittergourd,Corn,Cotton,Eggplant,Grapes,Mungbeans,Okra,Potato,Rice,Stringbeans,Sugarcane,Tomato,White potato	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Auchenorrhyncha,Superfamily:Membracoidea,Family:Cicadellidae			
+Leafminer	Insect						Beans,Chrysanthemum,Cowpea,Eggplant,Legumes,Mongo beans,Mungbeans,Onion,peas,Potato,Sitao,Soyabeans,Stringbeans,Sweet potato,Tomato,Watermelon,White potato				
+Leafroller	Insect						Ampalaya,Banana,Beans,Rice,Watermelon				
+Lesion nematode	Nematode		Pratylenchus penetrans	Pratylenchus spp.			Carrot				
+Lesser grain borer	Insect		Rhyzopertha dominica				Stored grain				
+Licorice rot	Fungus		Mycocentrospora acerina	Centrospora acerina,Sclerotinia sclerotiorum,Thielaviopsis basicola,Typhul			Carrot				
+Lilac Tasselflower	Broadleaf Weed		Emilia sonchifolia	Emilia flammea,Cacalia sonchifolia	Katumbi Jantan,Cupids Shaving Brush,Emilia,Red Tassel Flower,Purple Sow Thistle,Flora's Paintbrush		-				
+Locust	Insect						Agricultural crops				
+Loopers	Insect						Beans,Cabbage,Cruciferae,Pechay,Soyabeans,Stringbeans				
+Maggots	Insect						Corn,Legumes				
+Major weeds	Weed						Rice				
+Mango anthracnose	Fungus		Colletotrichum gloeosporioides				Mango	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Glomerellales,Family:Glomerellaceae,Genus:Colletotrichum			
+Mango leafhopper	Insect						Mango				
+Mango scab	Fungus						Mango				
+Mango stem borer,	Insect	Beetle	Batocera rufomaculata	Cerambycidae: Coleoptera			Mango	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Family:Cerambycidae,Genus:Batocera			
+Mango stem end rot	Fungus						Mango				
+Mango thrips	Fungus		Scirtothrips dorsalis	Rhipiphorothrips cruentatus			Mango		There are twenty thrips species reported to be inflicting mangoes.		
+Mango tip borer	Insect						Banana,Eggplant,Mango,Rice				
+Mango twig borer	Insect						Mango				
+Mealy bugs	Insect		Pseudococcidae sp.				Banana,Banana (Cavendish),Citrus,Coffee,Eggplant,Fruit trees,Grapes,Legumes,Mango,Ornamentals,Pineapple,Sugarcane	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Sternorrhyncha,Superfamily:Coccoidea,Family:Pseudococcidae			
+Melanose scab	Fungus		Diaporthe citri 				Citrus	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Diaporthales,Family:Diaporthaceae,Genus:Diaporthe			
+Melon thrips	Insect		Thrips palmi				-	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Thysanoptera,Family:Thripidae,Genus:Thrips			
+Melon worm	Insect		Diaphania indica				Bittergourd,Watermelon	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Crambidae,Genus:Diaphania			
+Mexican primrose-willow	Broadleaf Weed		Ludwigia octovalvis				Rice				
+Mice	Fungus						Banana,Cocoa,Corn,Oil palm,Pineapple,Rice,Sugarcane				
+Mildew	Fungus						Asparagus,Beans,Bittergourd,Broccoli,Cabbage,Cantaloupe,Cauliflower,Celery,Citrus,Corn,Cotton,Cruciferae,Cucumber,Cucurbits,Eggplant,Garlic,Grapes,Leafy Vegetables,Leeks,Legumes,Lettuce,Mango,Melon,Mungbeans,Okra,Onion,Orchids,Ornamentals,Papaya,peas,Pepper,Potato,Shallots,Squash,Strawberry,Stringbeans,Tomato,Vegetables,Watermelon				
+Mites	Mite						Beans,Citrus,Cocoa,Cotton,Cucumber,Eggplant,Grapes,Mango,Melon,Mungbeans,Ornamentals,Papaya,Pineapple,Soyabeans,Squash,Strawberry,Stringbeans,Sugarcane,Watermelon				
+Mixed weeds	Weed						Non-crop areas				
+Moko disease	Bacteria		Ralstonia solanacearum		Bacterial wilt, Bacterial fruit rot		Banana,Banana (Cavendish),foot	Domain:Bacteria,Phylum:Pseudomonadota,Class:Betaproteobacteria,Order:Burkholderiales,Family:Burkholderiaceae,Genus:Ralstonia,Species:R. solanacearum			
+Mole cricket	Insect						Corn				
+Monachoria	Broadleaf Weed						Rice				
+Morning glory	Broadleaf Weed		Lpomoea triloba		Littlebell,Aiea morning glory		-				
+Motley dwarf virus	Virus		Luteovirus	Umbravirus	Carrot mottle virus,CMoV,Carrot red leaf virus,CaRLV,CtRLVaRNA		Carrot,Cilantro,Parsley			https://ipm.ucanr.edu/agriculture/cilantro-and-parsley/carrot-motley-dwarf/#gsc.tab=0	
+Mutha grass	Grass Weed						Banana,Cacao,Citrus,Coconut,Coffee,Corn,Mango,Non-crop areas,Oil palm,Rubber,Sugarcane,Vegetables				
+Neck rot	Fungus						Garlic,Lettuce,Onion,Pepper,Rice				
+Nematodes	Nematode						Banana,Cotton,Cowpea,Legumes,Pineapple,Soyabeans,Sugarcane,Tobacco,White potato				
+Northern corn leaf blight	Fungus						Corn				
+NutSedges	Grass Weed						Pineapple				
+Oriental fruit fly	Insect						Mango				
+Ozone injury	Physiological		Ozone pollution				Carrot				
+Paddy rice	Grass Weed						-				
+Panama disease	Fungus						Banana,Banana (Cavendish),foot				
+Panicle rice blast	Fungus						Rice				
+Papaya fruit + root rot	Fungus		Phytophthora palmivora				Papaya,Cocnut,Palms				
+Para grass	Fungus		Urochloa mutica				Banana,Cacao,Citrus,Coconut,Coffee,Corn,Mango,Non-crop areas,Oil palm,Rubber,Sugarcane,Vegetables	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Poaceae,Subfamily:Panicoideae,Genus:Urochloa			
+Pepper blight	Oomycete		Phytophthora capsici				Peppers,Eggplant				
+Perennial broadleaf weeds	Broadleaf Weed						-	Kingdom:Plantae,Clade:Tracheophytes,Clade:Spermatophytes,Clade:Angiosperms			
+Perennial grass weeds	Grass Weed						-	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Cyperaceae			
+Perennial grasses	Grass Weed						Banana (Cavendish),Cacao,Citrus,Coffee,Corn,Non-crop areas,Oil palm,Rubber	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Clade:Graminid clade,Family:Poaceae			
+Perennial sedges	Grass Weed						Rice,Soyabeans				
+Perennial Weeds	Grass Weed						-				
+Phoma blight	Fungus						Asparagus,Eggplant				
+Phomopsis blight	Fungus		Phoma asparagi		Stem blight		-				
+Phymatotrichum root rot (cotton root rot)	Fungus		Phymatotrichopsis omnivora	Phymatotrichum omnivorum			Carrot				
+Phythopthora Root rot	Fungus		Phytophthora cinnamomi				Pineapple				
+Phythopthora rot	Fungus						Ornamentals,Papaya,Pineapple				
+Phytophthora blight	Fungus		Phytophthora capsici				Eggplant,Pepper	Domain:Eukaryota,Clade:Diaphoretickes,Clade:SAR,Clade:Stramenopiles,Phylum:Oomycota,Order:Peronosporales,Family:Peronosporaceae,Genus:Phytophthora			
+Phytophthora infestans	Fungus		Phytophthora infestans				Potato,Tomato	Domain:Eukaryota,Clade:Diaphoretickes,Clade:SAR,Clade:Stramenopiles,Phylum:Oomycota,Order:Peronosporales,Family:Peronosporaceae,Genus:Phytophthora			
+Phytophthora root rot	Fungus		Phytophthora megasperma				Carrot				
+Pickerel weed	Broadleaf Weed						-				
+Pineapple butt rot	Fungus		Ceratocystis paradoxa	Ceratocystis paradoxa	Pineapple black rot,Base rot,White blister,Butt mold		Pineapple	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Microascales,Family:Ceratocystidaceae,Genus:Ceratocystis			
+Pineapple disease	Fungus						Sugarcane				
+Pineapple fruit rot	Fungus						Pineapple				
+Pineapple mites	Mite						Pineapple				
+Pineapple mold	Fungus						Banana,Pineapple				
+Pineapple wilt	Fungus						Pineapple				
+Pink disease	Fungus		Erythricium salmonicolor				Cashew nuts,Coffee,Citrus,Rubber,Cocao,Mango				
+Pink disease: Jackfruit	Fungus		Botryobasidium salmonicolaor 	Corticium Salmonicolor			Jackfruit				
+Pink disease: Pineapple	Fungus		Tatumella morbirosei				Pineapple				
+Pink mold rot	Fungus		Trichothecium roseum	Trichothecium ptyseos 			Carrot				
+Pink rot	Fungus						Celery				
+Pink scavenger moth	Insect	Moth	Anatrachyntis rileyi	Pyroderces rileyi	Pink cornworm,Pink bud moth		Banana,Corn,Cotton,Lemon,Pineapple			https://lepidoptera.butterflyhouse.com.au/cosm/rileyi.html	
+Pink Stem Borer	Insect	Moth	Sesamia inferens 				Rice			http://www.knowledgebank.irri.org/images/docs/managing-rice-stem-borers-in-rice-wheat-systems.pdf	
+Pitmark	Fungus						Banana				
+Planthoppers	Insect						Corn,Rice				
+Pod rot	Fungus						Cacao				
+Post-emergent broadleaf weeds	Broadleaf Weed						Corn,Rice,Sugarcane				
+Potato black rot	Fungus		Erwinia atroseptica				-				
+Potato cyst nematode	Nematode						Potato				
+Potato tuber worm	Insect						Potato,White Potato				
+Powdery mildew	Fungus		ascomycete fungi 				Asparagus,Beans,Bittergourd,Broccoli,Cabbage,Carrot,Cauliflower,Citrus,Cotton,Cruciferae,Cucumber,Cucurbits,Eggplant,Grapes,Leafy Vegetables,Legumes,Mango,Melon,Mungbeans,Okra,Orchids,Ornamentals,Papaya,peas,Pepper,Potato,Squash,Strawberry,Tomato,Vegetables,Watermelon				
+Powdery scab	Cercozoa		Spongospora subterranea f. sp. Subterranea				Potato				
+Purple blotch	Fungus		Alternaria porri				Garlic,Leeks,Onion,Shallots	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Alternaria			
+Purple cleome	Broadleaf Weed		Cleome rutidosperma				-				
+Purple nutsedge	Grass Weed		Cyperus rotundus				Sugarcane	Domain:Eukarya,Kingdom:Plantae,Phylum:Tracheophytes,Subphylum:Angiosperms,Class:Commelinids,Order:Poales,Family:Cyperaceae,			
+Pythium 	Oomycetes						-	Domain:Eukaryota,Kingdom:Diaphoretickes,Division:SAR,Clade_2:Stramenopile,Phylum:Gyrista,Subphylum:Pseudofungi,Class:Oomycetes,			
+Pythium brown rot and forking	Fungus		Pythium irregulare	Pythium paroecandrum,Pythium sulcatum,Pythium sylvaticum,			Carrot				
+Pythium root dieback	Fungus		Pythium spp.				Carrot				
+Rats	Rodent						Banana,Cocoa,Corn,Oil palm,Pineapple,Rice,Sugarcane				
+Red flour beetle	Insect		Tribolium castaneum				Stored grain				
+Red rot	Fungus						Sugarcane				
+Red sprangletop	Broadleaf Weed		Leptochloa chinensis		Asian sprangletop, or Chinese sprangletop		Onion,Rice	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Poaceae,Subfamily:Chloridoideae,Tribe:Cynodonteae,Subtribe:Eleusininae,Genus:Leptochloa	Asteraceae=Compositae		
+Redflower ragleaf	Broadleaf Weed		Crassocephalum crepidioides				NULL				
+Rhizoctonia canker	Fungus		Rhizoctonia solani				Carrot				
+Rhizoctonia seedling disease	Fungus		Rhizoctonia spp.				Carrot				
+Rhizopus wooly soft rot	Fungus		Rhizopus arrhizus	Rhizopus oryzae,Rhizopus arrhizus,Rhizopus oryzae,Rhizopus stolonifer,Rhizopus nigricans			Carrot				
+Rice	Grass Weed						Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rice,Rubber,Soyabeans,Stored grain,Tomato,Watermelon				
+Rice bacterial blight	Bacteria		Xanthomonas oryzae				Rice	Domain:Bacteria,Phylum:Pseudomonadota,Class:Gammaproteobacteria,Order:Xanthomonadales,Family:Xanthomonadaceae,Genus:Xanthomonas			
+Rice black bug: common	Insect		Scotinophara coarctata				Rice	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Heteroptera,Family:Pentatomidae,Subfamily:Podopinae,Tribe:Podopini,Genus:Scotinophara,	Three species of black bugs attack rice: common black bug, Malayan black bug and, Japanese rice black bug		
+Rice black bug: japanese	Insect		Scotinophara latiuscula				Rice				
+Rice black bug: malayan	Insect		Scotinophara lurida				Rice				
+Rice blast	Fungus		Magnaporthe grisea	Magnaporthe oryzae	Blast (leaf and collar),,Rice rotten neck, rice seedling blight, blast of rice, oval leaf spot of graminea, pitting disease, ryegrass blast, Johnson spot, neck blast, wheat blast and Imochi		Rice	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Sordariomycetes,Order:Magnaporthales,Family:Magnaporthaceae,Genus:Magnaporthe			
+Rice blight	Fungus		Magnaporthe grisea		Rice blast,Rice rotten neck,Rice seedling blight,Oval leaf spot of graminea,Pitting disease,Ryegrass blast,Johnson spot,Neck blast,Wheat blast,Imochi		Rice				
+Rice brown leaf spot	Fungus		Cochiobolus miyabeanus				Rice	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Cochliobolus			
+Rice bug	Fungus		Scotinophara coarctata		Rice black bug		Rice,Watermelon	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Hemiptera,Suborder:Heteroptera,Family:Pentatomidae,Subfamily:Podopinae,Tribe:Podopini,Genus:Scotinophara			
+Rice Dark-headed striped stemborer	Insect	Moth	C. polychrysus				Rice			http://www.knowledgebank.irri.org/images/docs/managing-rice-stem-borers-in-rice-wheat-systems.pdf	
+Rice ear-cutting caterpillar	Insect	Moth	Mythimna separata		Northern armyworm,Oriental armyworm		Rice				
+Rice flatsedge	Grass Weed		Cyperus iria		Rice flat sedge		Rice				
+Rice grain moth	Insect	Moth	Sitotroga cerealella		Angoumois grain moth		Rice	"Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:	Gelechiidae,Genus:Sitotroga"			
+Rice leaffolder	Insect	Moth	Cnaphalocrocis medinalis				Rice	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Lepidoptera,Family:Crambidae,Genus:Cnaphalocrocis			
+Rice Stem borer	Insect	Moth					Rice			http://www.knowledgebank.irri.org/images/docs/managing-rice-stem-borers-in-rice-wheat-systems.pdf	
+Rice Striped stemborer	Insect	Moth	Chilo suppressalis				Rice		"most abundant in temperate countries and in non-flooded areas.
+Its damage can be as high as 100%"		
+Rice swarming caterpillar	Insect	Moth	Spodoptera mauritia				Rice			http://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/armyworms	
+Rice weevil	Insect		Sitophilus oryzae				Stored grain,Rice				
+Rice whorl maggot	Insect	Fly	Hydrellia philippina				Rice,Watermelon				
+Rice Yellow stemborer	Insect	Moth	Scirpophaga incertulas				Rice			http://www.knowledgebank.irri.org/images/docs/managing-rice-stem-borers-in-rice-wheat-systems.pdf	
+Rind borer	Insect	Moth	Prays endocarpa				Citrus			https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.43911	
+Rindworm complex	Insect		Spodoptera exigua	"Spodoptera frugiperda,Spodoptera ornithogalli,Trichoplusia ni,Heliothis virescens,
+,Helicoverpa zea,Estigmene acrea,
+Feltia subterranea"			Watermelon				
+Ringspot	Fungus		Mycosphaerella brassicicola				Cabbage	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Mycosphaerella,			
+Rodents	Rodent						Corn,Pineapple,Rice,Sugarcane				
+Root canker	Fungus		Rhizoctonia spp.				Carrot				
+Root dieback	Fungus		Pythium spp.				Carrot	Domain:Eukaryota,Clade:Diaphoretickes,Clade:SAR,Clade:Stramenopiles,Phylum:Oomycota,Order:Peronosporales,Family:Pythiaceae,Genus:Pythium			
+Root disease	Fungus						-				
+Root fly	Insect						-				
+Root knot	Nematode		Meloidogyne hapla				Carrot				
+Root rot	Fungus		Fusarium culmorum	Rhizoctonia spp.,Sclerotium rolfsii,Fusarium spp.			Carrot				
+Root scab	Physiological		Physiological				Carrot				
+Root-knot nematode	Nematode						Pineapple				
+Rubbery brown rot	Fungus		Phytophthora cactorum	Phytophthora megasperma			Carrot				
+Rubbery slate rot	Fungus		Pythium debaryanum				Carrot				
+Rusetting	Fungus						Citrus				
+Rust	Fungus		Aecidium foeniculi	Uromyces graminis,Nearcticus,Uromyces scirpi,Uromyces lineolatus sp.			Banana,Beans,Carrot,Chrysanthemum,Citrus,Coffee,Corn,Mungbeans,Ornamentals,Peanut,Peas,Pepper,Snap Beans,Soyabeans,Stringbeans				
+Rust-red grain beetle	Insect						-				
+Saramolla grass	Grass Weed						Rice				
+Saromacca grass	Grass Weed						-				
+Saw toothed grain beetle	Insect						-				
+Scab: Bacterial	Bacteria		Streptomyces scabiei				Potato,Beet,Carrot,Parsnip,Radish,Rutabaga,Turnip	Domain:Bacteria,Phylum:Actinomycetota,Class:Actinomycetia,Order:Streptomycetales,Family:Streptomycetaceae,Genus:Streptomyces,Species:S. scabiei			
+Scab: Fungal	Fungus						Calamansi,Cantaloupe,Citrus,Cucumber,Mandarin,Mango,Melon,Orange,Potato,Squash,Watermelon				
+Scale insects	Insect						Banana,Banana (Cavendish),Citrus,Coconut,Fruit trees,Grapes,Mango,Ornamentals,Papaya,Pineapple,Sugarcane				
+Scarab beetle white grubs	Insect		Phyllophaga spp				Sugarcane,Corn	Domain:Eukaryota,Kingdom:Animalia,Phylum:Arthropoda,Class:Insecta,Order:Coleoptera,Suborder:Polyphaga,Infraorder:Scarabaeiformia,Family:Scarabaeidae,Subfamily:Melolonthinae,Tribe:Melolonthini,Genus:Phyllophaga,			
+Scarring beetle	Insect						banana				
+Sclerotinia rot	Fungus		Sclerotinia sclerotiorum	Sclerotinia minor			Carrot				
+Sedges	Grass Weed						Banana,Banana (Cavendish),Cacao,Citrus,Coconut,Coffee,Corn,Grass,Lawns,Mango,Non-crop areas,Oil palm,Okra,Onion,Pineapple,Rice,Rubber,Soyabeans,Sugarcane,Turf grass,Vegetables	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Cyperaceae			
+Seed borer	Insect						Mango				
+Seed corn maggot	Insect						Corn,Sugarcane				
+Seed mold	Fungus		Alternaria alternata	Gibberella fujikuroi,Fusarium moniliforme			Carrot				
+Seedling blight	Fungus		Pythium spp.	Fusarium spp.,Diplodia spp.,Rhizoctonia spp.,Penicillium spp.			Corn,Oil palm				
+Semi-Looper	Insect						Beans,Cabbage,Soyabeans,Stringbeans			http://www.plantdoctor.eastwestseed.com/insect-pests/semi-looper	
+Semi-Slugs 	Mollusc		Pamarion martens				-				
+Sensitive plant	Broadleaf Weed		Mimosa pudica				-	Domain:Eukarya,Kingdom:Plantae,Phylum:Anthophyta,Class:Dicotyledoneae,Order:Fabales,Family:Fabaceae,Genus:Mimosa	Fabaceae: pea family		
+Septoria	Fungus						Celery,Cucumber,Cucurbits,Melon,Squash,Tomato,Watermelon				
+Septoria fruit spot	Fungus						Cucumber,Cucurbits,Melon,Squash,Watermelon				
+Septoria leaf spot	Fungus		Septoria lycopersici				Celery,Cucumber,Cucurbits,Melon,Squash,Tomato,Watermelon	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Capnodiales,Family:Mycosphaerellaceae,Genus:Septoria			
+Sheath blight	Fungus		Rhizoctonia solani				Rice, soybean, bean, sorghum, corn, sugarcane, turfgrass	Domain:Eukaryota,Kingdom:Fungi,Division:Basidiomycota,Class:Agaricomycetes,Order:Cantharellales,Family:Ceratobasidiaceae,Genus:Rhizoctonia	and weed hosts such as barnyard grass, crabgrass, and broadleaf signal grass		
+Sheath rot	Fungus						Rice				
+Shoot borer	Insect						Eggplant				
+Shot hole disease	Fungus						Cabbage,Cauliflower,Lettuce				
+Sigatoka	Fungus						Banana				
+Silk beetle	Insect						Corn				
+Silkworm	Insect						Corn,Cotton				
+Silver scurf	Fungus		Helminthosporium solani				Potato				
+Slugs	Mollusc						Banana,Banana (Cavendish),Chinese Cabbage,Cruciferae,Pineapple,Potted plants,Strawberry				
+Smoky fruit disease	Fungus						Banana				
+Smooth beggarticks	Broadleaf Weed		Bidens laevis		Larger bur-marigold		NULL				
+Snails	Mollusc						Chinese Cabbage,Cruciferae,Strawberry				
+Soil insects	Insect						Cowpea,Soyabeans				
+Soil pests	Insect						Banana				
+Sooty mold	Fungus						Mango				
+Sooty rot	Fungus		Aspergillus niger				Carrot				
+Sour paspalum grass	Fungus						Banana,Cacao,Citrus,Coffee,Cotton,Oil palm,Onion,Pineapple,Ramie,Rubber,Soyabeans,Tomato				
+Sour rot	Fungus		Geotrichum candidum				Carrot				
+Souring beetle	Insect						Pineapple				
+Southern blight	Fungus		Athelia rolfsii	Sclerotium rolfsii			Carrot				
+Spear rot	Fungus						Asparagus				
+Speckled carrot	Physiological		Genetic disorder				Carrot				
+Spider mites	Mite						Grapes,Mango,Ornamentals,Papaya			http://www.plantdoctor.eastwestseed.com/insect-pests/red-spider-mites	
+Spindletop	Fungus						Corn				
+Spiral Nematodes	Nematode						Pineapple				
+Spotted Stem Borer	Insect	Moth	Chilo partellus				Corn,Millet,Rice,Sorghum,Sugarcane			http://www.knowledgebank.irri.org/images/docs/managing-rice-stem-borers-in-rice-wheat-systems.pdf	
+Squash beetle	Insect						Cucurbits,Melon,Watermelon				
+Squash blight	Fungus		Phytophthora capsici		Phytophthora blight		Cucurbits,Squash,Eggplant				
+Squash bug	Insect						Cowpea,Cucumber,Cucurbits,Legumes,Melon,Mungbeans,Soyabeans,Watermelon				
+Stem blight	Fungus						Asparagus				
+Stem borer	Insect						Corn,Mango,Rice,Watermelon				
+Stem end rot	Fungus						Pepper				
+Stem rot	Fungus						Okra,Rice				
+Stem spot	Fungus		Diaporthe arctii				Carrot				
+Stemphylium leaf blight	Fungus		Stemphylium sp.				Garlic	Domain:Eukaryota,Kingdom:Fungi,Division:Ascomycota,Class:Dothideomycetes,Order:Pleosporales,Family:Pleosporaceae,Genus:Stemphylium			
+Sting nematode	Nematode		Belonolaimus longicaudatus				Carrot				
+Stink bug	Insect						Citrus,Cowpea,Legumes,Mungbeans,Soyabeans				
+Stored grain pests	Insect						,Stored grain				
+Strawberry leaf spot	Fungus						Strawberry				
+Stubby-root nematodes	Nematode		Trichodorus				Carrot				
+Sugarcane borer	Insect		Chilo sacchariphagus:sugarcane internode spotted borer	Sesamia inferens: pink borer,Argyroploce schistaceana:white borer			Sugarcane				
+Sugarcane white grub	Insect						Banana,Corn,Perennial fruits,Pineapple,Sugarcane				
+Symphylids	Insect						NULL				
+Termites	Insect						Sugarcane				
+Tip hoppers	Insect						Mango				
+Tip rot	Fungus		Numerous pathogens				Carrot				
+Tipborer	Insect						-				
+Tobacco brown leaf spot	Fungus		Alternaria longipes				Tobacco	KingdomFungi,PhylumAscomycota,SubphylumPezizomycotina,ClassDothideomycetes,SubclassPleosporomycetidae,OrderPleosporales,FamilyPleosporaceae,GenusAlternaria,			
+Tobacco budworm	Insect	Moth	Helicoverpa assulta				Alfalfa,Clover,Cotton,Flax,Soybean,Tobacco,Cabbage,Cantaloupe,Lettuce,Pea,Pepper,Pigeonpea,Squash,Tomato,Ornamentals,Sitao,Solanaceae	Kingdom:AnimaliaPhylum:ArthropodaClass:InsectaOrder:LepidopteraFamily:NoctuidaeGenus:Chloridea			
+Tomato Anthracnose	Fungus		Collectotrichum cocodes		Potato black dot disease		Tomato,Potato				
+Tomato blight	Oomycete		Phytophthora infestans				Tomato				
+Tropical whiteweed	Fungus						Corn				
+Twig borer	Insect						Mango				
+Twigcutter	Insect						Mango				
+Twister disease	Fungus		Colletotrichum gloeosporioides	Fusarium fujikuroi			Onion				
+Umbel blight	Fungus		Colletotrichum gloeosporioides				Carrot				
+Variable flatsedge	Grass weed		Cyperus difformis		Smallflower umbrella-sedge,Rice sedge	Ubod-ubod	Rice				
+Violet root rot	Fungus		Helicobasidium brebissonii	Helicobasidium purpureum,Rhizoctonia crocorum			Carrot				
+Volunteer rice	Fungus						Onion				
+Watery soft rot	Fungus		Sclerotinia sclerotiorum	Sclerotinia minor,Sclerotium rolfsii,Botrytis cinerea			Carrot				
+Web worm	Insect						Sorghum				
+Weeds	Weed						Banana,Banana (Cavendish),Beans,Cacao,Carrot,Cassava,Celery,Citrus,Coconut,Coffee,Corn,Cotton,Garlic,Grass,Lawns,Mango,Non-crop areas,Oil palm,Okra,Onion,Peanut,peas,Pineapple,Potato,Rice,Rubber,Sorghum,Soyabeans,Sugarcane,Tobacco,Tomato,Turf grass,Vegetables				
+Weevils	Insect						Cotton,Sweet potato,White potato				
+Wet bud rot	Fungus						Coconut				
+Wheat	Fungus						NULL				
+White backed planthopper	Insect						Rice				
+White fly	Insect						Cabbage,Citrus,Cotton,Eggplant,Potato,Stringbeans,Tobacco,Tomato,Watermelon				
+White grub	Insect						Banana,Corn,Perennial fruits,Pineapple,Soyabeans,Sugarcane				
+White leaf spot 	Fungus						Brassicas				
+White rust: Brassicas	Oomycete		Albugo candida				Brassicas				
+White rust: Chrysanthemum	Oomycete		Puccinia horiana				Chrysanthemum				
+White Blister Rust	Oomycete		Albugo occidentalis				Spinnach				
+White rust: Beet	Oomycete		Wilsoniana bliti,				Amaranth,Beets,Lambs quarters				
+White spot	Fungus						Corn				
+White stem borer	Insect	Moth	Scirpophaga innotata				Rice		important pest in rainfed wetland rice. It can cause outbreaks and destroy rice fields		
+Wild rice	Fungus						Onion,Rice				
+Wild sugarcane 	Grass		Saccharum spontaneum			Talahib grass	Banana,Cacao,Citrus,Coconut,Coffee,Corn,Mango,Non-crop areas,Oil palm,Rubber,Sugarcane,Vegetables	Kingdom:Plantae,Clade:Tracheophytes,Clade:Angiosperms,Clade:Monocots,Clade:Commelinids,Order:Poales,Family:Poaceae,Subfamily:Panicoideae,Genus:Saccharum			
+Yellow sigatoka	Fungus						Banana				
+Alternaria abietis	Fungus		Alternaria abietis								
+Alternaria abundans	Fungus		Alternaria abundans								
+Alternaria abutilonis	Fungus		Alternaria abutilonis								
+Alternaria acalyphae	Fungus		Alternaria acalyphae								
+Alternaria acalyphicola	Fungus		Alternaria acalyphicola								
+Alternaria achyranthis	Fungus		Alternaria achyranthis								
+Alternaria aconidiophora	Fungus		Alternaria aconidiophora								
+Alternaria actinophylla	Fungus		Alternaria actinophylla								
+Alternaria africana	Fungus		Alternaria africana								
+Alternaria agerati	Fungus		Alternaria agerati								
+Alternaria agripestis	Fungus		Alternaria agripestis								
+Alternaria ailanthi	Fungus		Alternaria ailanthi								
+Alternaria albiziae	Fungus		Alternaria albiziae								
+Alternaria aliena	Fungus		Alternaria aliena								
+Alternaria allii	Fungus		Alternaria allii	/wiki/Alternaria_allii							
+Alternaria allii-tuberosi	Fungus		Alternaria allii-tuberosi								
+Alternaria alocasiae	Fungus		Alternaria alocasiae								
+Alternaria alstroemeriae	Fungus		Alternaria alstroemeriae								
+Alternaria altccampina	Fungus		Alternaria altccampina								
+Alternaria alternantherae	Fungus		Alternaria alternantherae								
+Alternaria alternariacida	Fungus		Alternaria alternariacida								
+Alternaria alternariae	Fungus		Alternaria alternariae								
+Alternaria alternarina	Fungus		Alternaria alternarina								
+Alternaria altcernata	Fungus		Alternaria altcernata								
+Alternaria amaranthi	Fungus		Alternaria amaranthi								
+Alternaria americana	Fungus		Alternaria americana								
+Alternaria ammopiptanthi	Fungus		Alternaria ammopiptanthi								
+Alternaria amorphophalli	Fungus		Alternaria amorphophalli								
+Alternaria amphicarpaeae	Fungus		Alternaria amphicarpaeae								
+Alternaria anagallidis	Fungus		Alternaria anagallidis								
+Alternaria angustiovoidea	Fungus		Alternaria angustiovoidea								
+Alternaria anigozanthi	Fungus		Alternaria anigozanthi								
+Alternaria anodae	Fungus		Alternaria anodae								
+Alternaria anthropophila	Fungus		Alternaria anthropophila								
+Alternaria anthyllidis	Fungus		Alternaria anthyllidis								
+Alternaria aquaeductua	Fungus		Alternaria aquaeductua								
+Alternaria aracearum	Fungus		Alternaria aracearum								
+Alternaria arachidis	Fungus		Alternaria arachidis	/wiki/Alternaria_arachidis							
+Alternaria aragakii	Fungus		Alternaria aragakii								
+Alternaria arborescens	Fungus		Alternaria arborescens								
+Alternaria arbusti	Fungus		Alternaria arbusti								
+Alternaria arctoseptata	Fungus		Alternaria arctoseptata								
+Alternaria argyranthemi	Fungus		Alternaria argyranthemi								
+Alternaria argyroxiphii	Fungus		Alternaria argyroxiphii								
+Alternaria armeniacae	Fungus		Alternaria armeniacae								
+Alternaria armoraciae	Fungus		Alternaria armoraciae								
+Alternaria arrhenatheri	Fungus		Alternaria arrhenatheri								
+Alternaria arundinis	Fungus		Alternaria arundinis								
+Alternaria ascaloniae	Fungus		Alternaria ascaloniae								
+Alternaria asclepiadea	Fungus		Alternaria asclepiadea								
+Alternaria aspera	Fungus		Alternaria aspera								
+Alternaria asphodeli	Fungus		Alternaria asphodeli								
+Alternaria astragali	Fungus		Alternaria astragali								
+Alternaria astragalicola	Fungus		Alternaria astragalicola								
+Alternaria atra	Fungus		Alternaria atra								
+Alternaria atrans	Fungus		Alternaria atrans								
+Alternaria atrobrunnea	Fungus		Alternaria atrobrunnea								
+Alternaria atrocariis	Fungus		Alternaria atrocariis								
+Alternaria avenicola	Fungus		Alternaria avenicola								
+Alternaria axiaeriisporifera	Fungus		Alternaria axiaeriisporifera								
+Alternaria azadirachtae	Fungus		Alternaria azadirachtae								
+Alternaria azukiae	Fungus		Alternaria azukiae								
+Alternaria bannaensis	Fungus		Alternaria bannaensis								
+Alternaria banyan	Fungus		Alternaria banyan								
+Alternaria baoshanensis	Fungus		Alternaria baoshanensis								
+Alternaria barbata	Fungus		Alternaria barbata								
+Alternaria basellae	Fungus		Alternaria basellae								
+Alternaria bataticola	Fungus		Alternaria bataticola								
+Alternaria bauhiniae	Fungus		Alternaria bauhiniae								
+Alternaria beringelae	Fungus		Alternaria beringelae								
+Alternaria betae-kenyensis	Fungus		Alternaria betae-kenyensis								
+Alternaria beticola	Fungus		Alternaria beticola								
+Alternaria betulae	Fungus		Alternaria betulae								
+Alternaria biproliformis	Fungus		Alternaria biproliformis								
+Alternaria blumeae	Fungus		Alternaria blumeae								
+Alternaria bokurai	Fungus		Alternaria bokurai								
+Alternaria bonducellae	Fungus		Alternaria bonducellae								
+Alternaria bornmuelleri	Fungus		Alternaria bornmuelleri								
+Alternaria botryospora	Fungus		Alternaria botryospora								
+Alternaria botrytis	Fungus		Alternaria botrytis								
+Alternaria brasiliensis	Fungus		Alternaria brasiliensis								
+Alternaria brassicae	Fungus		Alternaria brassicae	/wiki/Alternaria_brassicae							
+Alternaria brassicae-pekinensis	Fungus		Alternaria brassicae-pekinensis								
+Alternaria brassicicola	Fungus		Alternaria brassicicola	/wiki/Alternaria_brassicicola							
+Alternaria brassicinae	Fungus		Alternaria brassicinae								
+Alternaria bresadolae	Fungus		Alternaria bresadolae								
+Alternaria breviconidiophora	Fungus		Alternaria breviconidiophora								
+Alternaria breviramosa	Fungus		Alternaria breviramosa								
+Alternaria brevirostra	Fungus		Alternaria brevirostra								
+Alternaria breviseptata	Fungus		Alternaria breviseptata								
+Alternaria brevispora	Fungus		Alternaria brevispora								
+Alternaria broccoli-italicae	Fungus		Alternaria broccoli-italicae								
+Alternaria broussonetiae	Fungus		Alternaria broussonetiae								
+Alternaria brunnea	Fungus		Alternaria brunnea								
+Alternaria bryophylli	Fungus		Alternaria bryophylli								
+Alternaria bundelkhandae	Fungus		Alternaria bundelkhandae								
+Alternaria burnsii	Fungus		Alternaria burnsii								
+Alternaria caespitosa	Fungus		Alternaria caespitosa								
+Alternaria cajani	Fungus		Alternaria cajani								
+Alternaria calendulae	Fungus		Alternaria calendulae								
+Alternaria californica	Fungus		Alternaria californica								
+Alternaria calycanthi	Fungus		Alternaria calycanthi								
+Alternaria calycipyricola	Fungus		Alternaria calycipyricola								
+Alternaria camelliae	Fungus		Alternaria camelliae								
+Alternaria cantlous	Fungus		Alternaria cantlous								
+Alternaria capsici	Fungus		Alternaria capsici								
+Alternaria capsici-annui	Fungus		Alternaria capsici-annui								
+Alternaria cardiospermi	Fungus		Alternaria cardiospermi								
+Alternaria caricae	Fungus		Alternaria caricae								
+Alternaria caricicola	Fungus		Alternaria caricicola								
+Alternaria caricina	Fungus		Alternaria caricina								
+Alternaria caricis	Fungus		Alternaria caricis								
+Alternaria carolinaeana	Fungus		Alternaria carolinaeana								
+Alternaria carotiincultae	Fungus		Alternaria carotiincultae								
+Alternaria carthami	Fungus		Alternaria carthami	/wiki/Alternaria_carthami							
+Alternaria carthamicola	Fungus		Alternaria carthamicola								
+Alternaria carthami-tinctorii	Fungus		Alternaria carthami-tinctorii								
+Alternaria cassiae	Fungus		Alternaria cassiae								
+Alternaria castaneae	Fungus		Alternaria castaneae								
+Alternaria catalpae	Fungus		Alternaria catalpae								
+Alternaria catananches	Fungus		Alternaria catananches								
+Alternaria catharanthi	Fungus		Alternaria catharanthi								
+Alternaria catharanthicola	Fungus		Alternaria catharanthicola								
+Alternaria caudata	Fungus		Alternaria caudata								
+Alternaria celosiicola	Fungus		Alternaria celosiicola								
+Alternaria centaureae	Fungus		Alternaria centaureae								
+Alternaria cepulae	Fungus		Alternaria cepulae								
+Alternaria cerasi	Fungus		Alternaria cerasi								
+Alternaria cerasidanica	Fungus		Alternaria cerasidanica								
+Alternaria cercosporoides	Fungus		Alternaria cercosporoides								
+Alternaria cerealis	Fungus		Alternaria cerealis								
+Alternaria cesenica	Fungus		Alternaria cesenica								
+Alternaria chartarum	Fungus		Alternaria chartarum								
+Alternaria cheiranthi	Fungus		Alternaria cheiranthi								
+Alternaria chenopodii	Fungus		Alternaria chenopodii								
+Alternaria chenopodiicola	Fungus		Alternaria chenopodiicola								
+Alternaria chlamydospora	Fungus		Alternaria chlamydospora								
+Alternaria chlamydosporifera	Fungus		Alternaria chlamydosporifera								
+Alternaria chlamydosporiformans	Fungus		Alternaria chlamydosporiformans								
+Alternaria chlamydosporigena	Fungus		Alternaria chlamydosporigena								
+Alternaria ciceris	Fungus		Alternaria ciceris								
+Alternaria cichorii	Fungus		Alternaria cichorii								
+Alternaria cicina	Fungus		Alternaria cicina								
+Alternaria cinerariae	Fungus		Alternaria cinerariae	/wiki/Alternaria_cinerariae							
+Alternaria cinerea	Fungus		Alternaria cinerea								
+Alternaria cirsinoxia	Fungus		Alternaria cirsinoxia								
+Alternaria citri	Fungus		Alternaria citri	/wiki/Alternaria_citri							
+Alternaria citriarbusti	Fungus		Alternaria citriarbusti								
+Alternaria citricancri	Fungus		Alternaria citricancri								
+Alternaria citrimacularis	Fungus		Alternaria citrimacularis								
+Alternaria citrullicola	Fungus		Alternaria citrullicola								
+Alternaria clerodendri	Fungus		Alternaria clerodendri								
+Alternaria coicis	Fungus		Alternaria coicis								
+Alternaria colombiana	Fungus		Alternaria colombiana								
+Alternaria compacta	Fungus		Alternaria compacta								
+Alternaria concatenata	Fungus		Alternaria concatenata								
+Alternaria concentrica	Fungus		Alternaria concentrica								
+Alternaria congesta	Fungus		Alternaria congesta								
+Alternaria conidiophora	Fungus		Alternaria conidiophora								
+Alternaria conoidea	Fungus		Alternaria conoidea								
+Alternaria consortialis	Fungus		Alternaria consortialis	/wiki/Alternaria_consortialis							
+Alternaria constricta	Fungus		Alternaria constricta								
+Alternaria cookei	Fungus		Alternaria cookei								
+Alternaria cosmosa	Fungus		Alternaria cosmosa								
+Alternaria crassa	Fungus		Alternaria crassa								
+Alternaria crassoides	Fungus		Alternaria crassoides								
+Alternaria crotonicola	Fungus		Alternaria crotonicola								
+Alternaria crotonis	Fungus		Alternaria crotonis								
+Alternaria cryptostegiae	Fungus		Alternaria cryptostegiae								
+Alternaria cucumerina	Fungus		Alternaria cucumerina	/wiki/Alternaria_cucumerina							
+Alternaria cucurbitae	Fungus		Alternaria cucurbitae								
+Alternaria culmorum	Fungus		Alternaria culmorum								
+Alternaria cumini	Fungus		Alternaria cumini								
+Alternaria curvata	Fungus		Alternaria curvata								
+Alternaria cylindrica	Fungus		Alternaria cylindrica								
+Alternaria cylindrorostra	Fungus		Alternaria cylindrorostra								
+Alternaria cypericola	Fungus		Alternaria cypericola								
+Alternaria cyphomandrae	Fungus		Alternaria cyphomandrae								
+Alternaria dactylidicola	Fungus		Alternaria dactylidicola								
+Alternaria danida	Fungus		Alternaria danida								
+Alternaria daturicola	Fungus		Alternaria daturicola								
+Alternaria dauci	Fungus		Alternaria dauci	/wiki/Alternaria_dauci							
+Alternaria daucicaulis	Fungus		Alternaria daucicaulis								
+Alternaria daucicola	Fungus		Alternaria daucicola								
+Alternaria daucifolii	Fungus		Alternaria daucifolii								
+Alternaria dendropanacis	Fungus		Alternaria dendropanacis								
+Alternaria dennisii	Fungus		Alternaria dennisii								
+Alternaria deserticola	Fungus		Alternaria deserticola								
+Alternaria destruens	Fungus		Alternaria destruens								
+Alternaria dianthi	Fungus		Alternaria dianthi	/wiki/Alternaria_dianthi							
+Alternaria dianthicola	Fungus		Alternaria dianthicola	/wiki/Alternaria_dianthicola							
+Alternaria dichondrae	Fungus		Alternaria dichondrae								
+Alternaria didymospora	Fungus		Alternaria didymospora								
+Alternaria dioscoreae	Fungus		Alternaria dioscoreae								
+Alternaria dissitiflori	Fungus		Alternaria dissitiflori								
+Alternaria divaricatae	Fungus		Alternaria divaricatae								
+Alternaria diversispora	Fungus		Alternaria diversispora								
+Alternaria dolichi	Fungus		Alternaria dolichi								
+Alternaria doliconidium	Fungus		Alternaria doliconidium								
+Alternaria dumosa	Fungus		Alternaria dumosa								
+Alternaria echinaceae	Fungus		Alternaria echinaceae								
+Alternaria eichhorniae	Fungus		Alternaria eichhorniae								
+Alternaria elaeagni	Fungus		Alternaria elaeagni								
+Alternaria elegans	Fungus		Alternaria elegans								
+Alternaria eleutherines	Fungus		Alternaria eleutherines								
+Alternaria ellipsoidalis	Fungus		Alternaria ellipsoidalis								
+Alternaria ellipsoidea	Fungus		Alternaria ellipsoidea								
+Alternaria ellisii	Fungus		Alternaria ellisii								
+Alternaria embellisia	Fungus		Alternaria embellisia								
+Alternaria enydrae	Fungus		Alternaria enydrae								
+Alternaria eriobotryae	Fungus		Alternaria eriobotryae								
+Alternaria ershadii	Fungus		Alternaria ershadii								
+Alternaria erumpens	Fungus		Alternaria erumpens								
+Alternaria eryngii	Fungus		Alternaria eryngii								
+Alternaria erythrinae	Fungus		Alternaria erythrinae								
+Alternaria ethzedia	Fungus		Alternaria ethzedia								
+Alternaria eucalypti	Fungus		Alternaria eucalypti								
+Alternaria eupatoriicola	Fungus		Alternaria eupatoriicola								
+Alternaria euphorbiae	Fungus		Alternaria euphorbiae	/wiki/Alternaria_euphorbiae							
+Alternaria euphorbiicola	Fungus		Alternaria euphorbiicola	/wiki/Alternaria_euphorbiicola							
+Alternaria eureka	Fungus		Alternaria eureka								
+Alternaria fagaricola	Fungus		Alternaria fagaricola								
+Alternaria falcata	Fungus		Alternaria falcata								
+Alternaria fici	Fungus		Alternaria fici								
+Alternaria ficinae	Fungus		Alternaria ficinae								
+Alternaria fimeti	Fungus		Alternaria fimeti								
+Alternaria floridana	Fungus		Alternaria floridana								
+Alternaria florigena	Fungus		Alternaria florigena								
+Alternaria forlicesenensis	Fungus		Alternaria forlicesenensis								
+Alternaria forsythiae	Fungus		Alternaria forsythiae								
+Alternaria franseriae 	Fungus		Alternaria franseriae 								
+Alternaria frumenti	Fungus		Alternaria frumenti								
+Alternaria fulva	Fungus		Alternaria fulva								
+Alternaria fumaginoides	Fungus		Alternaria fumaginoides								
+Alternaria fumosella	Fungus		Alternaria fumosella								
+Alternaria gaisen	Fungus		Alternaria gaisen								
+Alternaria gansuensis	Fungus		Alternaria gansuensis								
+Alternaria gaurae	Fungus		Alternaria gaurae								
+Alternaria geniostomatis	Fungus		Alternaria geniostomatis								
+Alternaria geophila	Fungus		Alternaria geophila								
+Alternaria geranii	Fungus		Alternaria geranii								
+Alternaria glyceriae	Fungus		Alternaria glyceriae								
+Alternaria gomphrenae	Fungus		Alternaria gomphrenae								
+Alternaria gorakhpurensis	Fungus		Alternaria gorakhpurensis								
+Alternaria gossypii	Fungus		Alternaria gossypii								
+Alternaria gossypina	Fungus		Alternaria gossypina								
+Alternaria gpagarwalii	Fungus		Alternaria gpagarwalii								
+Alternaria graminicola	Fungus		Alternaria graminicola								
+Alternaria graminum	Fungus		Alternaria graminum								
+Alternaria grandis	Fungus		Alternaria grandis								
+Alternaria granulosa	Fungus		Alternaria granulosa								
+Alternaria grisea	Fungus		Alternaria grisea								
+Alternaria grossulariae	Fungus		Alternaria grossulariae								
+Alternaria guangxiensis	Fungus		Alternaria guangxiensis								
+Alternaria guaranitica	Fungus		Alternaria guaranitica								
+Alternaria guarroi	Fungus		Alternaria guarroi								
+Alternaria guilanica	Fungus		Alternaria guilanica								
+Alternaria guizhouensis	Fungus		Alternaria guizhouensis								
+Alternaria gypsophilae	Fungus		Alternaria gypsophilae								
+Alternaria hampshirensis	Fungus		Alternaria hampshirensis								
+Alternaria harzii	Fungus		Alternaria harzii								
+Alternaria hawaiiensis	Fungus		Alternaria hawaiiensis								
+Alternaria hederae	Fungus		Alternaria hederae								
+Alternaria hedjaroudei	Fungus		Alternaria hedjaroudei								
+Alternaria helianthicola	Fungus		Alternaria helianthicola	/wiki/Alternaria_helianthicola							
+Alternaria helianthinficiens	Fungus		Alternaria helianthinficiens								
+Alternaria heliophytonis	Fungus		Alternaria heliophytonis								
+Alternaria henanensis	Fungus		Alternaria henanensis								
+Alternaria herbiculinae	Fungus		Alternaria herbiculinae								
+Alternaria herbiphorbicola	Fungus		Alternaria herbiphorbicola								
+Alternaria hesperidearum	Fungus		Alternaria hesperidearum								
+Alternaria heteroschemos	Fungus		Alternaria heteroschemos								
+Alternaria heterospora	Fungus		Alternaria heterospora								
+Alternaria heveae	Fungus		Alternaria heveae								
+Alternaria heyranica	Fungus		Alternaria heyranica								
+Alternaria hibisci	Fungus		Alternaria hibisci								
+Alternaria hibiscina	Fungus		Alternaria hibiscina								
+Alternaria hibiscinficiens	Fungus		Alternaria hibiscinficiens								
+Alternaria hispanica	Fungus		Alternaria hispanica								
+Alternaria hispida	Fungus		Alternaria hispida								
+Alternaria hominis	Fungus		Alternaria hominis								
+Alternaria hordeiaustralica	Fungus		Alternaria hordeiaustralica								
+Alternaria hordeicola	Fungus		Alternaria hordeicola								
+Alternaria hordeiseminis	Fungus		Alternaria hordeiseminis								
+Alternaria hortensiae	Fungus		Alternaria hortensiae								
+Alternaria humicola	Fungus		Alternaria humicola								
+Alternaria humuli	Fungus		Alternaria humuli								
+Alternaria humuli-scandens	Fungus		Alternaria humuli-scandens								
+Alternaria hungarica	Fungus		Alternaria hungarica								
+Alternaria hyacinthi	Fungus		Alternaria hyacinthi								
+Alternaria hydrophila	Fungus		Alternaria hydrophila								
+Alternaria ignobilis	Fungus		Alternaria ignobilis								
+Alternaria impatientis	Fungus		Alternaria impatientis								
+Alternaria incomplexa	Fungus		Alternaria incomplexa								
+Alternaria inconspicua	Fungus		Alternaria inconspicua								
+Alternaria indefessa	Fungus		Alternaria indefessa								
+Alternaria infectoria	Fungus		Alternaria infectoria								
+Alternaria inflata	Fungus		Alternaria inflata								
+Alternaria instipitata	Fungus		Alternaria instipitata								
+Alternaria intercepta	Fungus		Alternaria intercepta								
+Alternaria interna	Fungus		Alternaria interna								
+Alternaria interrupta	Fungus		Alternaria interrupta								
+Alternaria ipomoeae	Fungus		Alternaria ipomoeae								
+Alternaria iranica	Fungus		Alternaria iranica								
+Alternaria iridiaustralis	Fungus		Alternaria iridiaustralis								
+Alternaria iridicola	Fungus		Alternaria iridicola								
+Alternaria italica	Fungus		Alternaria italica								
+Alternaria jacinthicola	Fungus		Alternaria jacinthicola								
+Alternaria japonica	Fungus		Alternaria japonica	/wiki/Alternaria_japonica							
+Alternaria jesenskae	Fungus		Alternaria jesenskae								
+Alternaria junci-acuti	Fungus		Alternaria junci-acuti								
+Alternaria juncicola	Fungus		Alternaria juncicola								
+Alternaria junci-glauci	Fungus		Alternaria junci-glauci								
+Alternaria juxtiseptata	Fungus		Alternaria juxtiseptata								
+Alternaria kamtschatica	Fungus		Alternaria kamtschatica								
+Alternaria kansui	Fungus		Alternaria kansui								
+Alternaria kareliniae	Fungus		Alternaria kareliniae								
+Alternaria kordkuyana	Fungus		Alternaria kordkuyana								
+Alternaria koreana	Fungus		Alternaria koreana								
+Alternaria kulundae	Fungus		Alternaria kulundae								
+Alternaria lactucae	Fungus		Alternaria lactucae								
+Alternaria lactucicola	Fungus		Alternaria lactucicola								
+Alternaria lallemantiae	Fungus		Alternaria lallemantiae								
+Alternaria lanuginosa	Fungus		Alternaria lanuginosa								
+Alternaria lathyri	Fungus		Alternaria lathyri								
+Alternaria latifunda	Fungus		Alternaria latifunda								
+Alternaria latispora	Fungus		Alternaria latispora								
+Alternaria lawrencei	Fungus		Alternaria lawrencei								
+Alternaria leptinellae	Fungus		Alternaria leptinellae								
+Alternaria levis	Fungus		Alternaria levis								
+Alternaria ligustici	Fungus		Alternaria ligustici								
+Alternaria limaciformis	Fungus		Alternaria limaciformis								
+Alternaria limicola	Fungus		Alternaria limicola	/wiki/Alternaria_limicola							
+Alternaria limnanthemicola	Fungus		Alternaria limnanthemicola								
+Alternaria limoniasperae	Fungus		Alternaria limoniasperae								
+Alternaria linariae	Fungus		Alternaria linariae								
+Alternaria lini	Fungus		Alternaria lini								
+Alternaria linicola	Fungus		Alternaria linicola	/wiki/Alternaria_linicola							
+Alternaria liriodendri	Fungus		Alternaria liriodendri								
+Alternaria litorea	Fungus		Alternaria litorea								
+Alternaria lolii	Fungus		Alternaria lolii								
+Alternaria loliicola	Fungus		Alternaria loliicola								
+Alternaria lolii-temulenti	Fungus		Alternaria lolii-temulenti								
+Alternaria longipes	Fungus		Alternaria longipes								
+Alternaria longirostrata	Fungus		Alternaria longirostrata								
+Alternaria longispora	Fungus		Alternaria longispora								
+Alternaria longissima	Fungus		Alternaria longissima								
+Alternaria loofahae	Fungus		Alternaria loofahae								
+Alternaria luffae	Fungus		Alternaria luffae								
+Alternaria lunariae	Fungus		Alternaria lunariae								
+Alternaria lungaensis	Fungus		Alternaria lungaensis								
+Alternaria macalpinei	Fungus		Alternaria macalpinei								
+Alternaria macilenta	Fungus		Alternaria macilenta								
+Alternaria macroconidia	Fungus		Alternaria macroconidia								
+Alternaria macrospora	Fungus		Alternaria macrospora	/wiki/Alternaria_macrospora							
+Alternaria malayensis	Fungus		Alternaria malayensis								
+Alternaria mali	Fungus		Alternaria mali	/wiki/Alternaria_mali							
+Alternaria malorum	Fungus		Alternaria malorum								
+Alternaria malvacearum	Fungus		Alternaria malvacearum								
+Alternaria malvae	Fungus		Alternaria malvae								
+Alternaria malvae-vulgaris	Fungus		Alternaria malvae-vulgaris								
+Alternaria manihoticola	Fungus		Alternaria manihoticola								
+Alternaria manihotis	Fungus		Alternaria manihotis								
+Alternaria manshurica	Fungus		Alternaria manshurica								
+Alternaria maritima	Fungus		Alternaria maritima								
+Alternaria martindalei	Fungus		Alternaria martindalei								
+Alternaria melongenae	Fungus		Alternaria melongenae								
+Alternaria merytae	Fungus		Alternaria merytae								
+Alternaria metachromatica	Fungus		Alternaria metachromatica								
+Alternaria microspora	Fungus		Alternaria microspora								
+Alternaria mimicula	Fungus		Alternaria mimicula								
+Alternaria minimispora	Fungus		Alternaria minimispora								
+Alternaria mirabibensis	Fungus		Alternaria mirabibensis								
+Alternaria molesta	Fungus		Alternaria molesta								
+Alternaria montanica	Fungus		Alternaria montanica								
+Alternaria montsantina	Fungus		Alternaria montsantina								
+Alternaria mouchaccae	Fungus		Alternaria mouchaccae								
+Alternaria multiformis	Fungus		Alternaria multiformis								
+Alternaria multirostrata	Fungus		Alternaria multirostrata								
+Alternaria muriformispora	Fungus		Alternaria muriformispora								
+Alternaria murispora	Fungus		Alternaria murispora								
+Alternaria mycophila	Fungus		Alternaria mycophila								
+Alternaria nana	Fungus		Alternaria nana								
+Alternaria napiformis	Fungus		Alternaria napiformis								
+Alternaria nashi	Fungus		Alternaria nashi								
+Alternaria nattrassii	Fungus		Alternaria nattrassii								
+Alternaria neergaardii	Fungus		Alternaria neergaardii								
+Alternaria negundinicola	Fungus		Alternaria negundinicola								
+Alternaria nelumbicola	Fungus		Alternaria nelumbicola								
+Alternaria nelumbii	Fungus		Alternaria nelumbii								
+Alternaria neoipomoeae	Fungus		Alternaria neoipomoeae								
+Alternaria nepalensis	Fungus		Alternaria nepalensis								
+Alternaria nerii	Fungus		Alternaria nerii								
+Alternaria nicotiana	Fungus		Alternaria nicotiana								
+Alternaria nimbyae-dianthi	Fungus		Alternaria nimbyae-dianthi								
+Alternaria nimbyoides	Fungus		Alternaria nimbyoides								
+Alternaria nitrimali	Fungus		Alternaria nitrimali								
+Alternaria nobilis	Fungus		Alternaria nobilis								
+Alternaria nodulariconidiophora	Fungus		Alternaria nodulariconidiophora								
+Alternaria novae-guineensis	Fungus		Alternaria novae-guineensis								
+Alternaria novae-zelandiae	Fungus		Alternaria novae-zelandiae								
+Alternaria nucis	Fungus		Alternaria nucis								
+Alternaria nyctanthis	Fungus		Alternaria nyctanthis								
+Alternaria obclavata	Fungus		Alternaria obclavata								
+Alternaria obclavoidea	Fungus		Alternaria obclavoidea								
+Alternaria oblongoellipsoidea	Fungus		Alternaria oblongoellipsoidea								
+Alternaria oblongo-obovoidea	Fungus		Alternaria oblongo-obovoidea								
+Alternaria obovoidea	Fungus		Alternaria obovoidea								
+Alternaria obpyriconidia	Fungus		Alternaria obpyriconidia								
+Alternaria obpyriformis	Fungus		Alternaria obpyriformis								
+Alternaria obtecta	Fungus		Alternaria obtecta								
+Alternaria obtusa	Fungus		Alternaria obtusa								
+Alternaria ochroleuca	Fungus		Alternaria ochroleuca								
+Alternaria olivacea	Fungus		Alternaria olivacea								
+Alternaria omanensis	Fungus		Alternaria omanensis								
+Alternaria onobrychidis	Fungus		Alternaria onobrychidis								
+Alternaria oregonensis	Fungus		Alternaria oregonensis								
+Alternaria ornatissima	Fungus		Alternaria ornatissima								
+Alternaria orobanches	Fungus		Alternaria orobanches								
+Alternaria oryzae	Fungus		Alternaria oryzae								
+Alternaria oudemansii	Fungus		Alternaria oudemansii								
+Alternaria ovoidea	Fungus		Alternaria ovoidea								
+Alternaria oxytropis	Fungus		Alternaria oxytropis								
+Alternaria padwickii	Fungus		Alternaria padwickii	/wiki/Alternaria_padwickii							
+Alternaria painchiicola	Fungus		Alternaria painchiicola								
+Alternaria palandui	Fungus		Alternaria palandui								
+Alternaria panax	Fungus		Alternaria panax	/wiki/Alternaria_panax							
+Alternaria papavericola	Fungus		Alternaria papavericola								
+Alternaria papaveris	Fungus		Alternaria papaveris								
+Alternaria paragomphrenae	Fungus		Alternaria paragomphrenae								
+Alternaria paralinicola	Fungus		Alternaria paralinicola								
+Alternaria parvicaespitosa	Fungus		Alternaria parvicaespitosa								
+Alternaria passiflorae	Fungus		Alternaria passiflorae								
+Alternaria patula	Fungus		Alternaria patula								
+Alternaria peglionii	Fungus		Alternaria peglionii								
+Alternaria pellucida	Fungus		Alternaria pellucida								
+Alternaria penicillata	Fungus		Alternaria penicillata	/wiki/Alternaria_penicillata							
+Alternaria peponicola	Fungus		Alternaria peponicola								
+Alternaria peponis	Fungus		Alternaria peponis								
+Alternaria perangusta	Fungus		Alternaria perangusta								
+Alternaria perpunctulata	Fungus		Alternaria perpunctulata								
+Alternaria petalicolor	Fungus		Alternaria petalicolor								
+Alternaria petasitis	Fungus		Alternaria petasitis								
+Alternaria petroselini	Fungus		Alternaria petroselini								
+Alternaria petuchovskoi	Fungus		Alternaria petuchovskoi								
+Alternaria peucedani	Fungus		Alternaria peucedani								
+Alternaria pharbiticola	Fungus		Alternaria pharbiticola								
+Alternaria pharbitis	Fungus		Alternaria pharbitis								
+Alternaria phaseolicola	Fungus		Alternaria phaseolicola								
+Alternaria phaseoli-vulgaris	Fungus		Alternaria phaseoli-vulgaris								
+Alternaria philodendri	Fungus		Alternaria philodendri								
+Alternaria photistica	Fungus		Alternaria photistica								
+Alternaria phragmiticola	Fungus		Alternaria phragmiticola								
+Alternaria phragmospora	Fungus		Alternaria phragmospora								
+Alternaria physalidis	Fungus		Alternaria physalidis								
+Alternaria phytolaccae	Fungus		Alternaria phytolaccae								
+Alternaria pimpriana	Fungus		Alternaria pimpriana								
+Alternaria pipionipisi	Fungus		Alternaria pipionipisi								
+Alternaria planifunda	Fungus		Alternaria planifunda								
+Alternaria platycodonis	Fungus		Alternaria platycodonis								
+Alternaria plumbaginis	Fungus		Alternaria plumbaginis								
+Alternaria pluriseptata	Fungus		Alternaria pluriseptata								
+Alternaria poaceicola	Fungus		Alternaria poaceicola								
+Alternaria pobletensis	Fungus		Alternaria pobletensis								
+Alternaria podophylli	Fungus		Alternaria podophylli								
+Alternaria polianthis	Fungus		Alternaria polianthis								
+Alternaria polygoni	Fungus		Alternaria polygoni								
+Alternaria polymorpha	Fungus		Alternaria polymorpha								
+Alternaria polypodii	Fungus		Alternaria polypodii								
+Alternaria polypodiicola	Fungus		Alternaria polypodiicola								
+Alternaria polytricha	Fungus		Alternaria polytricha								
+Alternaria pomicola	Fungus		Alternaria pomicola								
+Alternaria poonensis	Fungus		Alternaria poonensis								
+Alternaria populi	Fungus		Alternaria populi								
+Alternaria populicola	Fungus		Alternaria populicola								
+Alternaria porri	Fungus		Alternaria porri								
+Alternaria postmessia	Fungus		Alternaria postmessia								
+Alternaria prasonis	Fungus		Alternaria prasonis								
+Alternaria pratensis	Fungus		Alternaria pratensis								
+Alternaria preussii	Fungus		Alternaria preussii								
+Alternaria primulae	Fungus		Alternaria primulae								
+Alternaria proteae	Fungus		Alternaria proteae								
+Alternaria protenta	Fungus		Alternaria protenta								
+Alternaria pruni	Fungus		Alternaria pruni								
+Alternaria prunicola	Fungus		Alternaria prunicola								
+Alternaria pseudobotrytis	Fungus		Alternaria pseudobotrytis								
+Alternaria pseudoeichhorniae	Fungus		Alternaria pseudoeichhorniae								
+Alternaria pseudoinfectoria	Fungus		Alternaria pseudoinfectoria								
+Alternaria pseudorostrata	Fungus		Alternaria pseudorostrata								
+Alternaria pseudoventricosa	Fungus		Alternaria pseudoventricosa								
+Alternaria pulcherrimae	Fungus		Alternaria pulcherrimae								
+Alternaria pulvinifungicola	Fungus		Alternaria pulvinifungicola								
+Alternaria puttemansii	Fungus		Alternaria puttemansii								
+Alternaria qualeae	Fungus		Alternaria qualeae								
+Alternaria quercicola	Fungus		Alternaria quercicola								
+Alternaria quercus	Fungus		Alternaria quercus								
+Alternaria radicina	Fungus		Alternaria radicina	/wiki/Alternaria_radicina							
+Alternaria ramulosa	Fungus		Alternaria ramulosa								
+Alternaria ranunculi	Fungus		Alternaria ranunculi								
+Alternaria raphani	Fungus		Alternaria raphani	/wiki/Alternaria_raphani							
+Alternaria readeri	Fungus		Alternaria readeri								
+Alternaria resedae	Fungus		Alternaria resedae								
+Alternaria rhadina	Fungus		Alternaria rhadina								
+Alternaria rhapontici	Fungus		Alternaria rhapontici								
+Alternaria rhaponticicola	Fungus		Alternaria rhaponticicola								
+Alternaria rhizophorae	Fungus		Alternaria rhizophorae								
+Alternaria rhoicola	Fungus		Alternaria rhoicola								
+Alternaria ribis	Fungus		Alternaria ribis								
+Alternaria ricini	Fungus		Alternaria ricini								
+Alternaria rosae	Fungus		Alternaria rosae								
+Alternaria rosa-sinensis	Fungus		Alternaria rosa-sinensis								
+Alternaria roseogrisea	Fungus		Alternaria roseogrisea								
+Alternaria rosicola	Fungus		Alternaria rosicola								
+Alternaria rosifolii	Fungus		Alternaria rosifolii								
+Alternaria rostellata	Fungus		Alternaria rostellata								
+Alternaria rostroconidia	Fungus		Alternaria rostroconidia								
+Alternaria rudbeckiae	Fungus		Alternaria rudbeckiae								
+Alternaria rumicicola	Fungus		Alternaria rumicicola								
+Alternaria rumicis	Fungus		Alternaria rumicis								
+Alternaria salicicola	Fungus		Alternaria salicicola								
+Alternaria salicorniae	Fungus		Alternaria salicorniae								
+Alternaria sanguisorbae	Fungus		Alternaria sanguisorbae								
+Alternaria saparva	Fungus		Alternaria saparva								
+Alternaria sapindi	Fungus		Alternaria sapindi								
+Alternaria saponariae	Fungus		Alternaria saponariae	/wiki/Alternaria_saponariae							
+Alternaria saposhnikoviae	Fungus		Alternaria saposhnikoviae								
+Alternaria sauropodis	Fungus		Alternaria sauropodis								
+Alternaria scirpinfestans	Fungus		Alternaria scirpinfestans								
+Alternaria scirpivora	Fungus		Alternaria scirpivora								
+Alternaria scorzonerae	Fungus		Alternaria scorzonerae								
+Alternaria scrophulariae	Fungus		Alternaria scrophulariae								
+Alternaria seleniiphila	Fungus		Alternaria seleniiphila								
+Alternaria selini	Fungus		Alternaria selini								
+Alternaria senecionicola	Fungus		Alternaria senecionicola								
+Alternaria senecionis	Fungus		Alternaria senecionis	/wiki/Alternaria_senecionis							
+Alternaria sennae	Fungus		Alternaria sennae								
+Alternaria septorioides	Fungus		Alternaria septorioides								
+Alternaria septospora	Fungus		Alternaria septospora								
+Alternaria sesami	Fungus		Alternaria sesami								
+Alternaria sesamicola	Fungus		Alternaria sesamicola								
+Alternaria setariae	Fungus		Alternaria setariae								
+Alternaria shaanxiensis	Fungus		Alternaria shaanxiensis								
+Alternaria shukurtuzi	Fungus		Alternaria shukurtuzi								
+Alternaria sidae	Fungus		Alternaria sidae								
+Alternaria silybi	Fungus		Alternaria silybi								
+Alternaria simmonsii	Fungus		Alternaria simmonsii								
+Alternaria simsimi	Fungus		Alternaria simsimi								
+Alternaria slovaca	Fungus		Alternaria slovaca								
+Alternaria smyrnii	Fungus		Alternaria smyrnii								
+Alternaria sojae	Fungus		Alternaria sojae								
+Alternaria solani	Fungus		Alternaria solani	/wiki/Alternaria_solani							
+Alternaria solani-nigri	Fungus		Alternaria solani-nigri								
+Alternaria soliaegyptiaca	Fungus		Alternaria soliaegyptiaca								
+Alternaria soliaridae	Fungus		Alternaria soliaridae								
+Alternaria solidaccana	Fungus		Alternaria solidaccana								
+Alternaria somniferi	Fungus		Alternaria somniferi								
+Alternaria sonchi	Fungus		Alternaria sonchi	/wiki/Alternaria_sonchi							
+Alternaria sorghi	Fungus		Alternaria sorghi								
+Alternaria sorghicola	Fungus		Alternaria sorghicola								
+Alternaria spadicea	Fungus		Alternaria spadicea								
+Alternaria stachytarpheticola	Fungus		Alternaria stachytarpheticola								
+Alternaria steviae	Fungus		Alternaria steviae								
+Alternaria striiformis	Fungus		Alternaria striiformis								
+Alternaria subcucurbitae	Fungus		Alternaria subcucurbitae								
+Alternaria subelliptica	Fungus		Alternaria subelliptica								
+Alternaria subtropica	Fungus		Alternaria subtropica								
+Alternaria subulata	Fungus		Alternaria subulata								
+Alternaria sudanensis	Fungus		Alternaria sudanensis								
+Alternaria suffruticosae	Fungus		Alternaria suffruticosae								
+Alternaria suffruticosicola	Fungus		Alternaria suffruticosicola								
+Alternaria sylvestris	Fungus		Alternaria sylvestris								
+Alternaria tabacina	Fungus		Alternaria tabacina								
+Alternaria tagetica	Fungus		Alternaria tagetica								
+Alternaria tamaricis	Fungus		Alternaria tamaricis								
+Alternaria tamijiana	Fungus		Alternaria tamijiana								
+Alternaria tangelonis	Fungus		Alternaria tangelonis								
+Alternaria tellustris	Fungus		Alternaria tellustris								
+Alternaria tenuissima	Fungus		Alternaria tenuissima	/wiki/Alternaria_tenuissima							
+Alternaria terricola	Fungus		Alternaria terricola								
+Alternaria thalictricola	Fungus		Alternaria thalictricola								
+Alternaria thalictrigena	Fungus		Alternaria thalictrigena								
+Alternaria thalictrina	Fungus		Alternaria thalictrina								
+Alternaria thlaspis	Fungus		Alternaria thlaspis								
+Alternaria thunbergiae	Fungus		Alternaria thunbergiae								
+Alternaria tillandsiae	Fungus		Alternaria tillandsiae								
+Alternaria tinosporae	Fungus		Alternaria tinosporae								
+Alternaria tomaticola	Fungus		Alternaria tomaticola								
+Alternaria tomato	Fungus		Alternaria tomato								
+Alternaria torilis	Fungus		Alternaria torilis								
+Alternaria toxicogenica	Fungus		Alternaria toxicogenica								
+Alternaria trachelospermi	Fungus		Alternaria trachelospermi								
+Alternaria trachelospermicola	Fungus		Alternaria trachelospermicola								
+Alternaria traversoi	Fungus		Alternaria traversoi								
+Alternaria triangularis	Fungus		Alternaria triangularis								
+Alternaria tribuli	Fungus		Alternaria tribuli								
+Alternaria triglochinicola	Fungus		Alternaria triglochinicola								
+Alternaria triticicola	Fungus		Alternaria triticicola								
+Alternaria triticimaculans	Fungus		Alternaria triticimaculans								
+Alternaria triticina	Fungus		Alternaria triticina	/wiki/Alternaria_triticina							
+Alternaria tropaeoli	Fungus		Alternaria tropaeoli								
+Alternaria tropaeolicola	Fungus		Alternaria tropaeolicola								
+Alternaria tropica	Fungus		Alternaria tropica								
+Alternaria tuberculata	Fungus		Alternaria tuberculata								
+Alternaria tumida	Fungus		Alternaria tumida								
+Alternaria turkisafria	Fungus		Alternaria turkisafria								
+Alternaria typhonii	Fungus		Alternaria typhonii								
+Alternaria ulmi	Fungus		Alternaria ulmi								
+Alternaria umbellifericola	Fungus		Alternaria umbellifericola								
+Alternaria undulata	Fungus		Alternaria undulata								
+Alternaria uredinis	Fungus		Alternaria uredinis								
+Alternaria vaccariae	Fungus		Alternaria vaccariae								
+Alternaria vaccariicola	Fungus		Alternaria vaccariicola								
+Alternaria vaccinii	Fungus		Alternaria vaccinii								
+Alternaria vanuatuensis	Fungus		Alternaria vanuatuensis								
+Alternaria varians	Fungus		Alternaria varians								
+Alternaria venezuelensis	Fungus		Alternaria venezuelensis								
+Alternaria ventricosa	Fungus		Alternaria ventricosa								
+Alternaria viburni	Fungus		Alternaria viburni								
+Alternaria viciae-fabae	Fungus		Alternaria viciae-fabae								
+Alternaria viniferae	Fungus		Alternaria viniferae								
+Alternaria violae	Fungus		Alternaria violae								
+Alternaria vitis	Fungus		Alternaria vitis								
+Alternaria vulgaris	Fungus		Alternaria vulgaris								
+Alternaria xiaochaidanensis	Fungus		Alternaria xiaochaidanensis								
+Alternaria yali-inficiens	Fungus		Alternaria yali-inficiens								
+Alternaria yerbae	Fungus		Alternaria yerbae								
+Alternaria yunnanensis	Fungus		Alternaria yunnanensis								
+Alternaria zantedeschiae	Fungus		Alternaria zantedeschiae								
+Alternaria zhengzhouensis	Fungus		Alternaria zhengzhouensis								
+Alternaria zinniae	Fungus		Alternaria zinniae	/wiki/Alternaria_zinniae							

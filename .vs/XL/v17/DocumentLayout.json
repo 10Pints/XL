@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\XL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A02D24-6885-45B8-8C73-6EBB6B52A4BB}|Tests\\Tests.csproj|d:\\dev\\xl\\tests\\exceltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A02D24-6885-45B8-8C73-6EBB6B52A4BB}|Tests\\Tests.csproj|solutionrelative:tests\\exceltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60ED904F-3F24-4276-BEF9-45238338A734}|XL_Lib\\XL_Lib.csproj|d:\\dev\\xl\\xl_lib\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60ED904F-3F24-4276-BEF9-45238338A734}|XL_Lib\\XL_Lib.csproj|solutionrelative:xl_lib\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FD8-0AB0-4523-8739-0E08927511B4}|XL\\XL.csproj|d:\\dev\\xl\\xl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51E0FD8-0AB0-4523-8739-0E08927511B4}|XL\\XL.csproj|solutionrelative:xl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A02D24-6885-45B8-8C73-6EBB6B52A4BB}|Tests\\Tests.csproj|d:\\dev\\xl\\tests\\getparametersfromcfgfiletest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A02D24-6885-45B8-8C73-6EBB6B52A4BB}|Tests\\Tests.csproj|solutionrelative:tests\\getparametersfromcfgfiletest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51E0FD8-0AB0-4523-8739-0E08927511B4}|XL\\XL.csproj|d:\\dev\\xl\\xl\\xl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E51E0FD8-0AB0-4523-8739-0E08927511B4}|XL\\XL.csproj|solutionrelative:xl\\xl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelTests.cs",
+              "DocumentMoniker": "D:\\Dev\\XL\\Tests\\ExcelTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ExcelTests.cs",
+              "ToolTip": "D:\\Dev\\XL\\Tests\\ExcelTests.cs",
+              "RelativeToolTip": "Tests\\ExcelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:11:35.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XL",
+              "DocumentMoniker": "D:\\Dev\\XL\\XL\\XL.csproj",
+              "RelativeDocumentMoniker": "XL\\XL.csproj",
+              "ToolTip": "D:\\Dev\\XL\\XL\\XL.csproj",
+              "RelativeToolTip": "XL\\XL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T23:53:15.782Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 606,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetParametersFromCfgFileTest.json",
+              "DocumentMoniker": "D:\\Dev\\XL\\Tests\\GetParametersFromCfgFileTest.json",
+              "RelativeDocumentMoniker": "Tests\\GetParametersFromCfgFileTest.json",
+              "ToolTip": "D:\\Dev\\XL\\Tests\\GetParametersFromCfgFileTest.json",
+              "RelativeToolTip": "Tests\\GetParametersFromCfgFileTest.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T16:12:48.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excel.cs",
+              "DocumentMoniker": "D:\\Dev\\XL\\XL_Lib\\Excel.cs",
+              "RelativeDocumentMoniker": "XL_Lib\\Excel.cs",
+              "ToolTip": "D:\\Dev\\XL\\XL_Lib\\Excel.cs",
+              "RelativeToolTip": "XL_Lib\\Excel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:40:50.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\XL\\XL\\Program.cs",
+              "RelativeDocumentMoniker": "XL\\Program.cs",
+              "ToolTip": "D:\\Dev\\XL\\XL\\Program.cs",
+              "RelativeToolTip": "XL\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:42:25.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

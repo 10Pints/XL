@@ -1,0 +1,15 @@
+{
+   "appSettings": {
+      "AllSheets": {
+         "file": ".\\Attendance\\GMeet Attendance Report.xlsx",
+         "worksheet": "*",
+         "range": "A1:G"
+      }
+   },
+   "EPPlus": {
+      "ExcelPackage": {
+         "LicenseContext": "Commercial"
+      }
+   }
+
+}
